@@ -17,7 +17,10 @@ ToponymIdentification
   - 12,568 toponymic entities
   - repetitions deleted (the same name may refer to different places; such cases unified)
 
-
+4. MuCjambuldan_WorkingList.txt
+  - 12,539 toponymic entitie analyzed
+  - simple toponyms analyzed with Buckwalter (unidentifiable tagged as NOTFOUND)
+  - compound toponyms (two and more words) are place in a separate section (tagged as COMPOUND)
 
 # Additional functions:
 - reformat texts, splitting long lines into short ones (~72 symbols per line); makes long files more mamageable in text editors

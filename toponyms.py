@@ -30,8 +30,9 @@ def prepToponyms(fileName, REparameter):
     
     return(toponymRElist)
 
-# enerating a freq list of nGrams from sources
+# generating topHolders
 def generateTopHolders(sourceFile):
+    print("\ngenerating topHolders...")
     sourceFileBase = re.sub("\.[a-z]+$", "", sourceFile)
     
     source = open(sourceFolder+sourceFile, 'r', encoding="utf-8").read()
@@ -81,7 +82,7 @@ def generateTopHolders(sourceFile):
 #genFreqList("Tarikhislam.source")
 
 def genTopNgrams(sourceFile):
-    print("Generating a freqList of toponymic nGrams...")
+    print("%s:\ngenerating a freqList of toponymic nGrams..." % sourceFile)
     sourceFileBase = re.sub("\.[a-z]+$", "", sourceFile)
     fileForAnalysis = tempFolder+sourceFileBase+"_TopHolders.txt"
     fileForAnalysis = open(fileForAnalysis, 'r', encoding="utf-8").read()
@@ -108,40 +109,37 @@ def genTopNgrams(sourceFile):
         w.write(results)
 
 def genTopNgramsWeight(sourceFile):
-    print("Generating a freqList of toponymic nGrams...")
+    print("%s:\nanalyzing ngram frequencies and generating their relative weights..." % sourceFile)
     sourceFileBase = re.sub("\.[a-z]+$", "", sourceFile)
     fileForAnalysisFile = tempFolder+sourceFileBase+"_Raw_DoNotOpen.txt"
     fileForAnalysis = open(fileForAnalysisFile, 'r', encoding="utf-8").read()
 
-    fileForAnalysis = tempFolder+sourceFileBase+"_TopNgrams_Frequencies.txt"
-    fileForAnalysis = mgr.eNassClean(fileForAnalysis)
-    #fileForAnalysis = mgr.wrapPar(fileForAnalysis)
+    ngramFile = tempFolder+sourceFileBase+"_TopNgrams_Frequencies.txt"
+    ngramFile = open(ngramFile, 'r', encoding="utf-8").read()
 
-    # one of the transformations:
-    # - proper names should be replaced with placeHolders
-
-    # collecting toponymic ngrams
-
-    print("\nanalyzing ngram frequencies and generating probabilities...")
     newResults = []
-    #resultsTemp = re.sub(topHolder, "", results) 
-    resultsTemp = resultsTemp.split("\n")
+    #ngramFile = re.sub(topHolder, "", ngramFile) 
+    ngramFile = ngramFile.split("\n")
     countLines = 0
-    for line in resultsTemp:
+    for line in ngramFile:
         line = line.split("\t")
         topNgramStat = int(line[0])
-        topNgram     = line[1]
-        NgramTotal   = len(re.findall(r"\b%s" % mgr.deNormalize(topNgram), fileForAnalysis))
-        NgramProb    = "{0:.5f}".format(topNgramStat/NgramTotal)
-        newLine = "%s\t%08d\t%08d\t%s" % (str(NgramProb), int(NgramTotal), int(topNgramStat), topNgram)
-        #input(newLine)
-        newResults.append(newLine)
-        countLines = mgr.counter(countLines, 100)
+        if topNgramStat > 10:
+            topNgram     = line[1]
+            topNgramSrch = re.sub(topHolder, "", topNgram)
+            NgramTotal   = len(re.findall(r"\b%s" % mgr.deNormalize(topNgramSrch), fileForAnalysis))
+            if NgramTotal == 0:
+                print("Warning: NgramTotal is 0 for\n%s" % line)
+                NgramTotal = topNgramStat
+            NgramProb    = "{0:.5f}".format(topNgramStat/NgramTotal)
+            newLine = "%s\t%08d\t%08d\t%s" % (str(NgramProb), int(NgramTotal), int(topNgramStat), topNgram)
+            newResults.append(newLine)
+            countLines = mgr.counter(countLines, 100)
         
     newResults = sorted(newResults, reverse=True)
     newResults = "\n".join(newResults)
     
-    freqFile = tempFolder+sourceFileBase+"_TopNgrams_Frequencies.txt"
+    freqFile = tempFolder+sourceFileBase+"_TopNgrams_Weights.txt"
     with open(freqFile, 'w', encoding='utf-8') as w:
         w.write(newResults)
         
@@ -149,11 +147,16 @@ def genTopNgramsWeight(sourceFile):
 
 def applyToAllSources(sourceFolder):
     for file in os.listdir(sourceFolder):
-        print(file)
-        generateTopHolders(file)
-        genTopNgrams(file)
+        print("=============================\n\n"+file)
+        #generateTopHolders(file)
+        #genTopNgrams(file)
+        genTopNgramsWeight(file)
 
 applyToAllSources(sourceFolder)
+
+# TEST
+#genTopNgramsWeight("KitabAnsab.source")
+
 print("Done!")
 
 

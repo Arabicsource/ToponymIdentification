@@ -1,1 +1,54 @@
-0.15663	00000083	00000013	الي ــاسمــالمكانــ
+    555564	0.55556	NgramTotal:      18	topNgram:      10	وقدم ــاسمــالمكانــ
+    322579	0.32258	NgramTotal:      31	topNgram:      10	مات بــاسمــالمكانــ
+    300000	1.00000	NgramTotal:       3	topNgram:       3	بجرجانية ــاسمــالمكانــ
+    276924	0.46154	NgramTotal:      13	topNgram:       6	القضاء بــاسمــالمكانــ
+    261285	0.29032	NgramTotal:      31	topNgram:       9	اهل ــاسمــالمكانــ
+    228572	0.57143	NgramTotal:       7	topNgram:       4	مجمع ــاسمــالمكانــ
+    227277	0.45455	NgramTotal:      11	topNgram:       5	مولده بــاسمــالمكانــ
+    225000	0.75000	NgramTotal:       4	topNgram:       3	الف لاهل ــاسمــالمكانــ
+    200000	1.00000	NgramTotal:       2	topNgram:       2	وشرح مجمع ــاسمــالمكانــ
+    200000	1.00000	NgramTotal:       2	topNgram:       2	ورحل الي ــاسمــالمكانــ
+    200000	1.00000	NgramTotal:       2	topNgram:       2	وخرج الي ــاسمــالمكانــ
+    200000	1.00000	NgramTotal:       2	topNgram:       2	مذهب اهل ــاسمــالمكانــ
+    200000	1.00000	NgramTotal:       2	topNgram:       2	كتاب مجمع ــاسمــالمكانــ
+    200000	1.00000	NgramTotal:       2	topNgram:       2	في علماء ــاسمــالمكانــ
+    200000	1.00000	NgramTotal:       2	topNgram:       2	فقال دخل ــاسمــالمكانــ
+    200000	1.00000	NgramTotal:       2	topNgram:       2	ثم الي ــاسمــالمكانــ
+    200000	1.00000	NgramTotal:       2	topNgram:       2	به اهل ــاسمــالمكانــ
+    200000	0.50000	NgramTotal:       8	topNgram:       4	في تاريخ ــاسمــالمكانــ
+    192312	0.38462	NgramTotal:      13	topNgram:       5	ولي قضاء ــاسمــالمكانــ
+    179999	0.60000	NgramTotal:       5	topNgram:       3	وستماءة بــاسمــالمكانــ
+    179999	0.60000	NgramTotal:       5	topNgram:       3	دخل ــاسمــالمكانــ
+    162000	0.18000	NgramTotal:      50	topNgram:       9	قضاء ــاسمــالمكانــ
+    160000	0.40000	NgramTotal:      10	topNgram:       4	ولي القضاء بــاسمــالمكانــ
+    150000	0.50000	NgramTotal:       6	topNgram:       3	لاهل ــاسمــالمكانــ
+    139674	0.10744	NgramTotal:     121	topNgram:      13	الي ــاسمــالمكانــ
+    133334	0.66667	NgramTotal:       3	topNgram:       2	يكن بــاسمــالمكانــ
+    133334	0.66667	NgramTotal:       3	topNgram:       2	قري ــاسمــالمكانــ
+    128570	0.42857	NgramTotal:       7	topNgram:       3	نزيل ــاسمــالمكانــ
+    123075	0.30769	NgramTotal:      13	topNgram:       4	ولد بــاسمــالمكانــ
+    114282	0.28571	NgramTotal:      14	topNgram:       4	وــاسمــالمكانــ وــاسمــالمكانــ
+    112500	0.37500	NgramTotal:       8	topNgram:       3	من اهل ــاسمــالمكانــ
+    100000	0.50000	NgramTotal:       4	topNgram:       2	وولي قضاء ــاسمــالمكانــ
+    100000	0.50000	NgramTotal:       4	topNgram:       2	وكانت وفاته بــاسمــالمكانــ
+    100000	0.50000	NgramTotal:       4	topNgram:       2	بمصر وــاسمــالمكانــ
+    100000	0.50000	NgramTotal:       4	topNgram:       2	بلاد ــاسمــالمكانــ
+    100000	0.50000	NgramTotal:       4	topNgram:       2	الحديث بــاسمــالمكانــ
+     89999	0.30000	NgramTotal:      10	topNgram:       3	ومات بــاسمــالمكانــ
+     84213	0.21053	NgramTotal:      19	topNgram:       4	تاريخ ــاسمــالمكانــ
+     80000	0.40000	NgramTotal:       5	topNgram:       2	وفاته بــاسمــالمكانــ
+     80000	0.40000	NgramTotal:       5	topNgram:       2	وسبعماءة بــاسمــالمكانــ
+     80000	0.40000	NgramTotal:       5	topNgram:       2	وخمسماءة بــاسمــالمكانــ
+     80000	0.40000	NgramTotal:       5	topNgram:       2	سكن ــاسمــالمكانــ
+     64107	0.12821	NgramTotal:      39	topNgram:       5	قدم ــاسمــالمكانــ
+     57141	0.28571	NgramTotal:       7	topNgram:       2	وسمع بــاسمــالمكانــ
+     50000	0.25000	NgramTotal:       8	topNgram:       2	ورد ــاسمــالمكانــ
+     42858	0.14286	NgramTotal:      21	topNgram:       3	درس بــاسمــالمكانــ
+     40000	0.20000	NgramTotal:      10	topNgram:       2	ودفن بــاسمــالمكانــ
+     40000	0.20000	NgramTotal:      10	topNgram:       2	وتوفي بــاسمــالمكانــ
+     40000	0.20000	NgramTotal:      10	topNgram:       2	علماء ــاسمــالمكانــ
+     33334	0.16667	NgramTotal:      12	topNgram:       2	فخر ــاسمــالمكانــ
+     22261	0.02473	NgramTotal:     364	topNgram:       9	من ــاسمــالمكانــ
+     21914	0.05479	NgramTotal:      73	topNgram:       4	قاضي ــاسمــالمكانــ
+     19048	0.09524	NgramTotal:      21	topNgram:       2	توفي بــاسمــالمكانــ
+       224	0.00112	NgramTotal:    1786	topNgram:       2	بن ــاسمــالمكانــ

@@ -1,7 +1,8 @@
 # Ignore sources texts
 *.source
-*_Raw_DoNotOpen.txt
+*_Raw.txt
 *_TopHolders.txt
+*_PlaceHolders.txt
 
 # Ignore folders
 aside

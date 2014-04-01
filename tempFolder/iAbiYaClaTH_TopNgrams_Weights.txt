@@ -1,127 +1,86 @@
-   1107699	0.92308	NgramTotal:      13	topNgram:      12	نزيل ــاسمــالمكانــ
-    839533	0.44186	NgramTotal:      43	topNgram:      19	سكن ــاسمــالمكانــ
-    618742	0.13165	NgramTotal:     357	topNgram:      47	اهل ــاسمــالمكانــ
-    600000	1.00000	NgramTotal:       6	topNgram:       6	احمد نزيل ــاسمــالمكانــ
-    582769	0.22414	NgramTotal:     116	topNgram:      26	من اهل ــاسمــالمكانــ
-    581813	0.72727	NgramTotal:      11	topNgram:       8	وقدم ــاسمــالمكانــ
-    526085	0.47826	NgramTotal:      23	topNgram:      11	ومات بــاسمــالمكانــ
-    500000	1.00000	NgramTotal:       5	topNgram:       5	وتوفي بــاسمــالمكانــ
-    500000	1.00000	NgramTotal:       5	topNgram:       5	بكر نزيل ــاسمــالمكانــ
-    383368	0.05325	NgramTotal:    1352	topNgram:      72	الي ــاسمــالمكانــ
-    359999	0.60000	NgramTotal:      10	topNgram:       6	عن اهل ــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	ما اخرجت ــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	بسعيد بن ــاسمــالمكانــ
-    266669	0.66667	NgramTotal:       6	topNgram:       4	والحجاز وــاسمــالمكانــ
-    228572	0.57143	NgramTotal:       7	topNgram:       4	ولي القضاء بــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	والمدينة وــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	الغربي من ــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	الغربي بــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	السنة بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	يزالوا في ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	وورد ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	وفارس وــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	وغيرهم وقدم ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	ورجع الي ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	واصله من ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	واستوطن ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	من رجل بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	من تعدون بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	مقيم بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	لتدخلن ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	قدمت من ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	قتيلة بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	راجلا الي ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	داود الي ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	ثم سكن ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	تعدون بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	بطريق ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	ببلاد ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	اهل السنة بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الهمداني بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	النقلة الي ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الطرسوسي بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	اصحبك الي ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	ابي قتيلة بــاسمــالمكانــ
-    188460	0.26923	NgramTotal:      26	topNgram:       7	بباب ــاسمــالمكانــ
-    179999	0.60000	NgramTotal:       5	topNgram:       3	ودفن بباب ــاسمــالمكانــ
-    163639	0.27273	NgramTotal:      22	topNgram:       6	قدمت ــاسمــالمكانــ
-    156250	0.31250	NgramTotal:      16	topNgram:       5	القضاء بــاسمــالمكانــ
-    150000	0.50000	NgramTotal:       6	topNgram:       3	الخروج الي ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	مشهور بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	بكر بن بــاسمــالمكانــ
-    128570	0.42857	NgramTotal:       7	topNgram:       3	وماءتين بــاسمــالمكانــ
-    128570	0.42857	NgramTotal:       7	topNgram:       3	ولد بــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	وــاسمــالمكانــ والمدينة وــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	وردت من ــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	الشافعي بــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	ابن عباس بــاسمــالمكانــ
-     99998	0.33333	NgramTotal:       9	topNgram:       3	اخرجت ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	يا اهل ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	وسكن ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	صدقات ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	ريحانة ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	الغناءم بن ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	اصله من ــاسمــالمكانــ
-     69562	0.17391	NgramTotal:      23	topNgram:       4	عنه بــاسمــالمكانــ
-     66665	0.33333	NgramTotal:       6	topNgram:       2	رحل الي ــاسمــالمكانــ
-     66665	0.33333	NgramTotal:       6	topNgram:       2	انتقل الي ــاسمــالمكانــ
-     66665	0.33333	NgramTotal:       6	topNgram:       2	اقام بــاسمــالمكانــ
-     64288	0.21429	NgramTotal:      14	topNgram:       3	رجل بــاسمــالمكانــ
-     64000	0.16000	NgramTotal:      25	topNgram:       4	ورد ــاسمــالمكانــ
-     57145	0.14286	NgramTotal:      28	topNgram:       4	وــاسمــالمكانــ وــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	يقول دخلت ــاسمــالمكانــ
-     55093	0.06122	NgramTotal:     147	topNgram:       9	قدم ــاسمــالمكانــ
-     50000	0.25000	NgramTotal:       8	topNgram:       2	في طريق ــاسمــالمكانــ
-     47887	0.01064	NgramTotal:    4230	topNgram:      45	من ــاسمــالمكانــ
-     40000	0.20000	NgramTotal:      10	topNgram:       2	يسكن ــاسمــالمكانــ
-     39127	0.13043	NgramTotal:      23	topNgram:       3	في مقبرة ــاسمــالمكانــ
-     35976	0.00666	NgramTotal:    8111	topNgram:      54	بن ــاسمــالمكانــ
-     35208	0.07042	NgramTotal:      71	topNgram:       5	سعيد بن ــاسمــالمكانــ
-     28572	0.14286	NgramTotal:      14	topNgram:       2	منه بــاسمــالمكانــ
-     28572	0.14286	NgramTotal:      14	topNgram:       2	كما قال وــاسمــالمكانــ
-     27686	0.03955	NgramTotal:     177	topNgram:       7	باب ــاسمــالمكانــ
-     22499	0.07500	NgramTotal:      40	topNgram:       3	مقبرة ــاسمــالمكانــ
-     22221	0.11111	NgramTotal:      18	topNgram:       2	علي اهل ــاسمــالمكانــ
-     20931	0.06977	NgramTotal:      43	topNgram:       3	مدينة ــاسمــالمكانــ
-     19750	0.04938	NgramTotal:      81	topNgram:       4	قضاء ــاسمــالمكانــ
-     16669	0.04167	NgramTotal:      96	topNgram:       4	في اخرين ــاسمــالمكانــ
-     15241	0.03810	NgramTotal:     105	topNgram:       4	اخرين ــاسمــالمكانــ
-     13794	0.06897	NgramTotal:      29	topNgram:       2	خلف بن ــاسمــالمكانــ
-     12122	0.06061	NgramTotal:      33	topNgram:       2	مات بــاسمــالمكانــ
-     12122	0.06061	NgramTotal:      33	topNgram:       2	الناس بــاسمــالمكانــ
-     12000	0.04000	NgramTotal:      75	topNgram:       3	دخلت ــاسمــالمكانــ
-     11763	0.05882	NgramTotal:      34	topNgram:       2	ودفن بــاسمــالمكانــ
-     11112	0.05556	NgramTotal:      36	topNgram:       2	رجل من ــاسمــالمكانــ
-     10000	0.05000	NgramTotal:      40	topNgram:       2	طاهر ــاسمــالمكانــ
-      9279	0.03093	NgramTotal:      97	topNgram:       3	نزل ــاسمــالمكانــ
-      8666	0.00867	NgramTotal:    1153	topNgram:      10	محمد بن ــاسمــالمكانــ
-      8000	0.04000	NgramTotal:      50	topNgram:       2	عباس بن ــاسمــالمكانــ
-      7844	0.03922	NgramTotal:      51	topNgram:       2	طريق ــاسمــالمكانــ
-      7141	0.03571	NgramTotal:      56	topNgram:       2	عباس بــاسمــالمكانــ
-      6665	0.03333	NgramTotal:      60	topNgram:       2	نحو ــاسمــالمكانــ
-      6522	0.02174	NgramTotal:     138	topNgram:       3	بكر بن ــاسمــالمكانــ
-      6341	0.00317	NgramTotal:    6311	topNgram:      20	قال ــاسمــالمكانــ
-      6308	0.00421	NgramTotal:    3559	topNgram:      15	في ــاسمــالمكانــ
-      6198	0.01550	NgramTotal:     258	topNgram:       4	بن بــاسمــالمكانــ
-      5798	0.02899	NgramTotal:      69	topNgram:       2	قال من ــاسمــالمكانــ
-      4165	0.02083	NgramTotal:      96	topNgram:       2	وهي ــاسمــالمكانــ
-      3948	0.00658	NgramTotal:     912	topNgram:       6	وقال ــاسمــالمكانــ
-      3390	0.01695	NgramTotal:     118	topNgram:       2	الرحمن بن ــاسمــالمكانــ
-      3220	0.00805	NgramTotal:     497	topNgram:       4	الله بن ــاسمــالمكانــ
-      2887	0.00962	NgramTotal:     312	topNgram:       3	قال وــاسمــالمكانــ
-      2835	0.01418	NgramTotal:     141	topNgram:       2	دخل ــاسمــالمكانــ
-      2539	0.00847	NgramTotal:     354	topNgram:       3	مات ــاسمــالمكانــ
-      1500	0.00500	NgramTotal:     600	topNgram:       3	الا ــاسمــالمكانــ
-      1466	0.00733	NgramTotal:     273	topNgram:       2	جعفر ــاسمــالمكانــ
-      1076	0.00538	NgramTotal:     372	topNgram:       2	سمع ــاسمــالمكانــ
-       741	0.00247	NgramTotal:    1216	topNgram:       3	حدثنا ــاسمــالمكانــ
-       707	0.00236	NgramTotal:    1270	topNgram:       3	احمد بن ــاسمــالمكانــ
-       672	0.00336	NgramTotal:     596	topNgram:       2	وكان ــاسمــالمكانــ
-       563	0.00282	NgramTotal:     709	topNgram:       2	ذلك ــاسمــالمكانــ
-       558	0.00279	NgramTotal:     717	topNgram:       2	هذا ــاسمــالمكانــ
-       389	0.00130	NgramTotal:    2305	topNgram:       3	علي ــاسمــالمكانــ
-       387	0.00194	NgramTotal:    1030	topNgram:       2	ابن ــاسمــالمكانــ
-       338	0.00113	NgramTotal:    2648	topNgram:       3	عن ــاسمــالمكانــ
-       323	0.00108	NgramTotal:    2775	topNgram:       3	لا ــاسمــالمكانــ
-       171	0.00086	NgramTotal:    2315	topNgram:       2	احمد ــاسمــالمكانــ
-       154	0.00051	NgramTotal:    5926	topNgram:       3	ان ــاسمــالمكانــ
+1.00000	NgramTotal:       6	topNgram:       6	احمد نزيل ــاسمــالمكانــ
+1.00000	NgramTotal:       5	topNgram:       5	وتوفي بــاسمــالمكانــ
+1.00000	NgramTotal:       5	topNgram:       5	بكر نزيل ــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	ما اخرجت ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	وورد ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	وفارس وــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	وغيرهم وقدم ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	ورجع الي ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	واصله من ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	واستوطن ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	من رجل بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	من تعدون بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	مقيم بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	قدمت من ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	قتيلة بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	راجلا الي ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	داود الي ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	ثم سكن ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	تعدون بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	بطريق ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	ببلاد ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	اهل السنة بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الهمداني بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	النقلة الي ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الطرسوسي بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	اصحبك الي ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	ابي قتيلة بــاسمــالمكانــ
+0.92308	NgramTotal:      13	topNgram:      12	نزيل ــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	والمدينة وــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	السنة بــاسمــالمكانــ
+0.72727	NgramTotal:      11	topNgram:       8	وقدم ــاسمــالمكانــ
+0.66667	NgramTotal:       6	topNgram:       4	والحجاز وــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	مشهور بــاسمــالمكانــ
+0.60000	NgramTotal:      10	topNgram:       6	عن اهل ــاسمــالمكانــ
+0.57143	NgramTotal:       7	topNgram:       4	ولي القضاء بــاسمــالمكانــ
+0.50000	NgramTotal:       6	topNgram:       3	الخروج الي ــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	وــاسمــالمكانــ والمدينة وــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	وردت من ــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	الغربي بــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	الشافعي بــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	ابن عباس بــاسمــالمكانــ
+0.41860	NgramTotal:      43	topNgram:      18	سكن ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	يا اهل ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	وسكن ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	صدقات ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	ريحانة ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	اصله من ــاسمــالمكانــ
+0.39130	NgramTotal:      23	topNgram:       9	ومات بــاسمــالمكانــ
+0.33333	NgramTotal:       9	topNgram:       3	اخرجت ــاسمــالمكانــ
+0.33333	NgramTotal:       6	topNgram:       2	رحل الي ــاسمــالمكانــ
+0.33333	NgramTotal:       6	topNgram:       2	انتقل الي ــاسمــالمكانــ
+0.33333	NgramTotal:       6	topNgram:       2	اقام بــاسمــالمكانــ
+0.31250	NgramTotal:      16	topNgram:       5	القضاء بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	يقول دخلت ــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	وماءتين بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	ولد بــاسمــالمكانــ
+0.27273	NgramTotal:      22	topNgram:       6	قدمت ــاسمــالمكانــ
+0.25000	NgramTotal:       8	topNgram:       2	في طريق ــاسمــالمكانــ
+0.19828	NgramTotal:     116	topNgram:      23	من اهل ــاسمــالمكانــ
+0.17391	NgramTotal:      23	topNgram:       4	عنه بــاسمــالمكانــ
+0.16129	NgramTotal:      31	topNgram:       5	بباب ــاسمــالمكانــ
+0.16000	NgramTotal:      25	topNgram:       4	ورد ــاسمــالمكانــ
+0.15385	NgramTotal:      26	topNgram:       4	وــاسمــالمكانــ وــاسمــالمكانــ
+0.14286	NgramTotal:      14	topNgram:       2	منه بــاسمــالمكانــ
+0.14286	NgramTotal:      14	topNgram:       2	رجل بــاسمــالمكانــ
+0.12045	NgramTotal:     357	topNgram:      43	اهل ــاسمــالمكانــ
+0.11111	NgramTotal:      18	topNgram:       2	علي اهل ــاسمــالمكانــ
+0.06122	NgramTotal:     147	topNgram:       9	قدم ــاسمــالمكانــ
+0.06061	NgramTotal:      33	topNgram:       2	مات بــاسمــالمكانــ
+0.06061	NgramTotal:      33	topNgram:       2	الناس بــاسمــالمكانــ
+0.06000	NgramTotal:      50	topNgram:       3	مدينة ــاسمــالمكانــ
+0.05882	NgramTotal:      34	topNgram:       2	ودفن بــاسمــالمكانــ
+0.05556	NgramTotal:      36	topNgram:       2	رجل من ــاسمــالمكانــ
+0.04938	NgramTotal:      81	topNgram:       4	قضاء ــاسمــالمكانــ
+0.04882	NgramTotal:    1352	topNgram:      66	الي ــاسمــالمكانــ
+0.04000	NgramTotal:      75	topNgram:       3	دخلت ــاسمــالمكانــ
+0.03922	NgramTotal:      51	topNgram:       2	طريق ــاسمــالمكانــ
+0.03704	NgramTotal:     189	topNgram:       7	باب ــاسمــالمكانــ
+0.03571	NgramTotal:      56	topNgram:       2	عباس بــاسمــالمكانــ
+0.03333	NgramTotal:      60	topNgram:       2	نحو ــاسمــالمكانــ
+0.03093	NgramTotal:      97	topNgram:       3	نزل ــاسمــالمكانــ
+0.02899	NgramTotal:      69	topNgram:       2	قال من ــاسمــالمكانــ
+0.01418	NgramTotal:     141	topNgram:       2	دخل ــاسمــالمكانــ
+0.00967	NgramTotal:    4239	topNgram:      41	من ــاسمــالمكانــ
+0.00112	NgramTotal:    3559	topNgram:       4	في ــاسمــالمكانــ
+0.00034	NgramTotal:    5951	topNgram:       2	ان ــاسمــالمكانــ

@@ -1,0 +1,26 @@
+00000058	33.35932	44.35693	بغداد	Baġdād	Baghdād	Baghdad	temp	baghdad443E333N_Iraq
+00000023	30.40147	47.71735	البصرة	al-Baṣraŧ	al-Baṣra	al-Basra	temp	basra477E304N_Iraq
+00000012	33.51843	36.30199	دمشق	Dimašq	Dimashq	Dimashq	metropoles	dimashq363E335N_Syria
+00000011	21.39132	39.83612	مكة	Makkaŧ	Makka	Makka	temp	makka398E213N_Arabia
+00000011	32.04478	44.38138	الكوفة	al-Kūfaŧ	al-Kūfa	al-Kufa	temp	kufa443E320N_Iraq
+00000009	36.90807	34.95529	طرسوس|أنطرسوس|أنطرطوس	Ṭarsūs/Anṭarsūs/Anṭarṭūs	Ṭarsūs/Anṭarsūs/Anṭarṭūs	Tarsus/Antarsus/Antartus	towns	tarsus349E369N_Syria
+00000009	40.88072	71.16439	باب	Bāb	Bāb	Bab	temp	bab711E408N_Khurasan
+00000008	24.47782	39.60908	يثرب|المدينة	Yaṯrib/al-Madīnaŧ	Yathrib/al-Madīna	Yathrib/al-Madina	temp	yathrib396E244N_Arabia
+00000007	35.62914	51.43887	الري	al-Rayy	al-Rayy	al-Rayy	temp	rayy514E356N_Jibal
+00000007	32.66634	51.66477	إصبهان	Iṣbahān	Iṣbahān	Isbahan	temp	isbahan516E326N_Khuzistan
+00000006	37.67193	62.10386	مرو	Marw	Marw	Marw	temp	marw621E376N_Khurasan
+00000004	36.21692	58.81270	نيسابور	Naysābūr	Naysābūr	Naysabur	temp	naysabur588E362N_Faris
+00000004	33.85526	44.22504	عكبرا	ʿUkbarā	ʿUkbarā	Ukbara	temp	ukbara442E338N_Iraq
+00000004	23.72676	38.80098	بدر	Badr	Badr	Badr	temp	badr388E237N_Arabia
+00000003	30.35814	48.27053	عبادان	ʿAbbādān	ʿAbbādān	Abbadan	temp	abbadan482E303N_Khuzistan
+00000003	36.88438	39.08906	حران	Ḥarrān	Ḥarrān	Harran	temp	harran390E368N_Jazira
+00000003	26.22927	61.33378	به	Bih ?	Bih ?	Bih ?	temp	bih613E262N_Sijistan
+00000003	36.32809	43.12700	الموصل	al-Mawṣil	al-Mawṣil	al-Mawsil	temp	mawsil431E363N_Jazira
+00000003	41.27136	69.18357	الشاش	al-Šāš	al-Shāsh	al-Shash	regions	shash691E412N_Khurasan
+00000003	31.92484	34.86436	الرملة	al-Ramlaŧ	al-Ramla	al-Ramla	capitals	ramla348E319N_Syria
+00000002	30.11392	54.41315	هراة	Harāŧ	Harā	Hara	temp	hara544E301N_Faris
+00000002	31.95598	34.88482	لد	Ludd	Ludd	Ludd	villages	ludd348E319N_Syria
+00000002	36.42208	59.49915	طوس|طابران	Ṭūs/Ṭābarān	Ṭūs/Ṭābarān	Tus/Tabaran	temp	tus594E364N_Khurasan
+00000002	36.97910	38.43806	سروج	Sarūǧ	Sarūj	Saruj	temp	saruj384E369N_Jazira
+00000002	36.19828	37.17518	حلب	Ḥalab	Ḥalab	Halab	capitals	halab371E361N_Syria
+00000002	36.78497	66.88305	بلخ	Balḫ	Balkh	Balkh	temp	balkh668E367N_Khurasan

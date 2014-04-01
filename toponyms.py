@@ -2,11 +2,13 @@ import sys, glob, re, os, shutil, math, operator, collections
 from os.path import join, getsize
 sys.path.append("C:\\My Documents\\Python\\Workspace\\scripts")
 import mgr, csv, textwrap
+import jsonHolder
 
 # Folders and Files
 toponymicListRaw = "./WorkingLists/MuCjambuldan_WorkingList.txt"
 sourceFolder     = "./SourcesToAnalyze/"
 tempFolder       = "./tempFolder/"
+workListFolder   = "./WorkingLists/"
 
 # Variables
 topHolder        = "ــاسمــالمكانــ"
@@ -140,15 +142,15 @@ def generatePlaceHolders(sourceFile):
     for i in topReList:
         source = re.sub(r"\b(%s)(%s)\b(?!(\]|\.))" % (topPrefix,i), r"\1%s [\2]" % topHolder, source)
 
-    topReList = prepToponyms(toponymicListRaw, "COMPOUND")
-    print("Processing COMPOUND (%d)..." % len(topReList))
-    for i in topReList:
-        source = re.sub(r"\b(%s)(%s)\b(?!(\]|\.))" % (topPrefix,i), r"\1%s [\2]" % topHolder, source)
-
-    topReList = prepToponyms(toponymicListRaw, "NEWMORPH")
-    print("Processing NEWMORPH (%d)..." % len(topReList))
-    for i in topReList:
-        source = re.sub(r"\b(%s)(%s)\b(?!(\]|\.))" % (topPrefix,i), r"\1%s [\2]" % topHolder, source)
+##    topReList = prepToponyms(toponymicListRaw, "COMPOUND")
+##    print("Processing COMPOUND (%d)..." % len(topReList))
+##    for i in topReList:
+##        source = re.sub(r"\b(%s)(%s)\b(?!(\]|\.))" % (topPrefix,i), r"\1%s [\2]" % topHolder, source)
+##
+##    topReList = prepToponyms(toponymicListRaw, "NEWMORPH")
+##    print("Processing NEWMORPH (%d)..." % len(topReList))
+##    for i in topReList:
+##        source = re.sub(r"\b(%s)(%s)\b(?!(\]|\.))" % (topPrefix,i), r"\1%s [\2]" % topHolder, source)
 
     source = mgr.wrapPar(source)
    
@@ -235,8 +237,9 @@ def genTopNgramsWeight(sourceFile):
             else:
                 NgramProb    = "{0:.5f}".format(topNgramStat/NgramTotalLen)
             NgramProbFloat = float(NgramProb)
-            testIndex = int(NgramProbFloat*NgramProbFloat*NgramTotalLen*100000)
-            newLine = "%10d\t%s\tNgramTotal:%s\ttopNgram:%s\t%s" % (testIndex, str(NgramProb), '{:>8}'.format(str(NgramTotalLen)),'{:>8}'.format(str(topNgramStat)),topNgram)
+            #testIndex = int(NgramProbFloat*NgramProbFloat*NgramTotalLen*100000)
+            #newLine = "%10d\t%s\tNgramTotal:%s\ttopNgram:%s\t%s" % (testIndex, str(NgramProb), '{:>8}'.format(str(NgramTotalLen)),'{:>8}'.format(str(topNgramStat)),topNgram)
+            newLine = "%s\tNgramTotal:%s\ttopNgram:%s\t%s" % (str(NgramProb), '{:>8}'.format(str(NgramTotalLen)),'{:>8}'.format(str(topNgramStat)),topNgram)
             #input(newLine)
             newResults.append(newLine)
             countLines = mgr.counter(countLines, 100)
@@ -249,8 +252,134 @@ def genTopNgramsWeight(sourceFile):
     with open(freqFile, 'w', encoding='utf-8') as w:
         w.write(newResults)
         
+# functions
+# grab nGrams and generate toponym suspect list (3s, 2s, and 1s)
+
+def ngramToToponymSuspects(sourceFile):
+    sourceFileBase = re.sub("\.[a-z]+$", "", sourceFile)
+    print("\n%s:\ncollecting toponym suspects..." % sourceFile)
+
+    sourceFile = tempFolder+sourceFileBase+"_Raw.txt"
+    sourceFile = open(sourceFile, 'r', encoding="utf-8").read()
+    # normalizeLight text
+    sourceFile = mgr.normalizeArabicLight(sourceFile)
+    
+    nGramFile = tempFolder+sourceFileBase+"_TopNgrams_Weights.txt"
+    nGramFile = open(nGramFile, 'r', encoding="utf-8").read()
+
+    # delete ngrams from the stop list
+    nGramStopList = workListFolder+"nGram_StopList.txt"
+    nGramStopList = open(nGramStopList, 'r', encoding="utf-8").read()
+    
+    nGramStopList = nGramStopList.split("\n")
+    for stopItem in nGramStopList:
+        #input(stopItem)
+        nGramFile = re.sub(".*%s\n" % stopItem, "", nGramFile)
+
+    # remove nGrams with freq less than 10
+    #nGramFile = re.sub("[\d.]+\t.*?topNgram:( )+\d\t.*(\n|$)", "", nGramFile)
+    nGramFile = re.sub("\n$", "", nGramFile)
+    nGramFile = re.sub(topHolder, "", nGramFile)
+    nGramFile = nGramFile.split("\n")
+
+    simpleSuspects   = ""
+    compoundSuspects = ""
+
+    # collection suspects
+    for nGram in nGramFile:
+        nGram = nGram.split("\t")
+        if 1 > float(nGram[0]) > 0.05:
+            simpleTemp = re.findall(r"\b%s(\w+)\b" % mgr.deNormalize(nGram[3]), sourceFile)
+            simpleTemp = "\n".join(simpleTemp)
+            simpleSuspects = simpleSuspects+simpleTemp
+        #else:
+        #    print(nGram)
+
+        #doubles    = re.findall(r"\b%s(\w+ \w+)\b" % mgr.deNormalize(nGram), sourceFile)
+        #triples    = re.findall(r"\b%s(\w+ \w+ \w+)\b" % mgr.deNormalize(nGram), sourceFile)
+        #quadriples = re.findall(r"\b%s(\w+ \w+ \w+ \w+)\b" % mgr.deNormalize(nGram), sourceFile)
+        
+
+    # generate freqList
+    simpleSuspects = mgr.freqList(simpleSuspects, 2)
+
+    # save the file
+    freqFile = tempFolder+sourceFileBase+"_TopSuspects.txt"
+    with open(freqFile, 'w', encoding='utf-8') as w:
+        w.write(simpleSuspects)    
+    
+# compare with Cornu's Gazetteer
+def addCornu(sourceFile):
+    sourceFileBase = re.sub("\.[a-z]+$", "", sourceFile)
+    print("\n%s:\ncollating with Cornu's Gazetteer......" % sourceFile)
+
+    sourceFile = tempFolder+sourceFileBase+"_TopSuspects.txt"
+    sourceFile = open(sourceFile, 'r', encoding="utf-8").read()
+    sourceFile = re.sub(r"(\n|$)", r"\tENDOFLINE\1", sourceFile)
+    
+    cornuList = workListFolder+"Cornu_All_Complete.txt"
+
+    with open(cornuList,"r", newline="\n", encoding='utf-8') as f:
+        cornu = csv.reader(f, delimiter='\t')
+        for row in cornu:
+            rowText = "\t".join(row)
+            toponym = mgr.deNormalize(row[3])
+            sourceFile = re.sub(r"\t(%s)\tENDOFLINE" % toponym, r"\t%s" % rowText, sourceFile)
+            # this needs to be fixed, since a toponym may refer to more than one different places
+
+    sourceFile = re.sub(r".*\tENDOFLINE(\n|$)", r"", sourceFile)
+    sourceFile = re.sub(r"\tcornu\d+\t", r"\t", sourceFile)
+    sourceFile = re.sub(r"(\t)+", r"\t", sourceFile)
+    # save the file
+    freqFile = tempFolder+sourceFileBase+"_TopSuspectsCornu.txt"
+    with open(freqFile, 'w', encoding='utf-8') as w:
+        w.write(sourceFile)   
+
+# compare against Mu`jam al-buldan
+# compare against Cornu's Gazetteer and generate JSON & CSV
+#### calculate "frequency weight" for each toponym based on the "probability" of each toponymic nGram
+# automatically create a styleVar:
+#### 
+# JSON: layers by books/titles, size dependent on frequency
+
+def createJSON(sourceFile, maxSize):
+    sourceFileBase = re.sub("\.[a-z]+$", "", sourceFile)
+    print("\n%s:\ncreating JSON..." % sourceFile)
+
+    sourceFile = tempFolder+sourceFileBase+"_TopSuspectsCornu.txt"
+    sourceFile = open(sourceFile, 'r', encoding="utf-8").read()
+    sourceFile = re.sub("\n$", "", sourceFile)
+
+    maxValue = re.search("^\d+", sourceFile).group()
+    maxValue = math.log(int(maxValue))
+    #input(maxValue)
+
+    jsonHeatMap = ""
+
+    sourceFile = sourceFile.split("\n")
+    sourceFileNew = ""
+    for line in sourceFile:
+        line = line.split("\t")
+        size = int((math.log(int(line[0]))/maxValue)*maxSize)
+        if size == 0:
+            size = 1
+        line.append(size)
+        line.append(sourceFileBase)
+        #line = "\t".join(line)
+        #sourceFileNew = sourceFileNew+line
+
+        jsonItem = jsonHolder.jsonPlaceItem % (sourceFileBase, line[1], line[2], str(int(line[0])), str(size),
+                                               line[3], line[4], line[5], line[6], line[7]) + "\n"
+        jsonHeatMap = jsonHeatMap + jsonItem
+        
+    finalJSON = open(tempFolder+sourceFileBase+"_Mini.json", "w", encoding='utf-8')
+    jsonHeatMapVar = jsonHolder.jsonPlaceHolder % jsonHeatMap
+    finalJSON.write(jsonHeatMapVar)
+    finalJSON.close()
+    return(jsonHeatMap)
 
 def applyToAllSources(sourceFolder):
+    cumulativeJSON = ""
     fileList = os.listdir(sourceFolder)
     fileList = "\n".join(fileList)
     fileList = re.sub(r"(^|\n)", r"\1%s" % sourceFolder, fileList)
@@ -259,14 +388,25 @@ def applyToAllSources(sourceFolder):
     for file in sortedList:
         file = re.sub(sourceFolder, "", file)
         print("\n=============================\n"+file+"\n=============================")
-        generateRawFiles(file)
+        #generateRawFiles(file)
         #generatePlaceHolders(file)
         #genTopNgrams(file)
         #genTopNgramsWeight(file)
+        #ngramToToponymSuspects(file)
+        #addCornu(file)
+        jsonTemp = createJSON(file, 40)
+        cumulativeJSON = cumulativeJSON + jsonTemp + "\n"
+    finalJSON = open("BiographicalCollections_Cumulative.json", "w", encoding='utf-8')
+    jsonHeatMapVar = jsonHolder.jsonPlaceHolder % cumulativeJSON
+    finalJSON.write(jsonHeatMapVar)
+    finalJSON.close()
 
 
 applyToAllSources(sourceFolder)
-    
+#ngramToToponymSuspects("iRajabDTH.source")
+#addCornu("iRajabDTH.source")
+#createJSON("iRajabDTH.source", 20)
+
 print("Done!")
 
 

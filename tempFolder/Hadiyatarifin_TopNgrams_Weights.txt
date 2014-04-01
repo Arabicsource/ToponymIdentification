@@ -1,450 +1,338 @@
-   7891649	0.32745	NgramTotal:     736	topNgram:     241	نزيل ــاسمــالمكانــ
-   5198958	0.42268	NgramTotal:     291	topNgram:     123	سنة وتوفي بــاسمــالمكانــ
-   4398614	0.30335	NgramTotal:     478	topNgram:     145	وتوفي بــاسمــالمكانــ
-   2257697	0.38926	NgramTotal:     149	topNgram:      58	ولد بــاسمــالمكانــ
-   2173886	0.43478	NgramTotal:     115	topNgram:      50	سافر الي ــاسمــالمكانــ
-   1414025	0.17457	NgramTotal:     464	topNgram:      81	المتوفي بــاسمــالمكانــ
-   1206158	0.43077	NgramTotal:      65	topNgram:      28	الشافعي نزيل ــاسمــالمكانــ
-   1200000	1.00000	NgramTotal:      12	topNgram:      12	من نشر ــاسمــالمكانــ
-   1191902	0.56757	NgramTotal:      37	topNgram:      21	من اعمال ــاسمــالمكانــ
-   1040867	0.23656	NgramTotal:     186	topNgram:      44	قضاء ــاسمــالمكانــ
-    938883	0.72222	NgramTotal:      18	topNgram:      13	من نواحي ــاسمــالمكانــ
-    921789	0.23636	NgramTotal:     165	topNgram:      39	سكن ــاسمــالمكانــ
-    894677	0.30851	NgramTotal:      94	topNgram:      29	تولي قضاء ــاسمــالمكانــ
-    882745	0.27586	NgramTotal:     116	topNgram:      32	قدم ــاسمــالمكانــ
-    822153	0.09905	NgramTotal:     838	topNgram:      83	تاريخ ــاسمــالمكانــ
-    762204	0.30488	NgramTotal:      82	topNgram:      25	من اهل ــاسمــالمكانــ
-    734789	0.56522	NgramTotal:      23	topNgram:      13	نواحي ــاسمــالمكانــ
-    733698	0.07643	NgramTotal:    1256	topNgram:      96	توفي بــاسمــالمكانــ
-    711112	0.88889	NgramTotal:       9	topNgram:       8	النظامية بــاسمــالمكانــ
-    694143	0.05690	NgramTotal:    2144	topNgram:     122	الي ــاسمــالمكانــ
-    689041	0.32812	NgramTotal:      64	topNgram:      21	من قري ــاسمــالمكانــ
-    687007	0.29870	NgramTotal:      77	topNgram:      23	الحنفي نزيل ــاسمــالمكانــ
-    650000	0.50000	NgramTotal:      26	topNgram:      13	الشيعي نزيل ــاسمــالمكانــ
-    640000	0.80000	NgramTotal:      10	topNgram:       8	المحدث نزيل ــاسمــالمكانــ
-    631772	0.24299	NgramTotal:     107	topNgram:      26	مجمع ــاسمــالمكانــ
-    623081	0.69231	NgramTotal:      13	topNgram:       9	محلة بــاسمــالمكانــ
-    540000	0.60000	NgramTotal:      15	topNgram:       9	الشافعي ولد بــاسمــالمكانــ
-    506250	0.56250	NgramTotal:      16	topNgram:       9	الشقاءق ــاسمــالمكانــ
-    500000	1.00000	NgramTotal:       5	topNgram:       5	من لءلءة ــاسمــالمكانــ
-    500000	1.00000	NgramTotal:       5	topNgram:       5	قريبة من ــاسمــالمكانــ
-    489999	0.70000	NgramTotal:      10	topNgram:       7	المجاور بــاسمــالمكانــ
-    465391	0.42308	NgramTotal:      26	topNgram:      11	الشافعي المتوفي بــاسمــالمكانــ
-    450000	0.75000	NgramTotal:       8	topNgram:       6	الطبيب نزيل ــاسمــالمكانــ
-    445449	0.63636	NgramTotal:      11	topNgram:       7	شرح مجمع ــاسمــالمكانــ
-    445449	0.63636	NgramTotal:      11	topNgram:       7	الشافعي توفي بــاسمــالمكانــ
-    436372	0.36364	NgramTotal:      33	topNgram:      12	قاضيا بــاسمــالمكانــ
-    431338	0.25373	NgramTotal:      67	topNgram:      17	اليماني ــاسمــالمكانــ
-    400000	1.00000	NgramTotal:       4	topNgram:       4	واستوطن ــاسمــالمكانــ
-    400000	1.00000	NgramTotal:       4	topNgram:       4	ذيل الشقاءق ــاسمــالمكانــ
-    400000	1.00000	NgramTotal:       4	topNgram:       4	تاريخ علماء ــاسمــالمكانــ
-    400000	1.00000	NgramTotal:       4	topNgram:       4	بالمدرسة النظامية بــاسمــالمكانــ
-    400000	1.00000	NgramTotal:       4	topNgram:       4	المرية بــاسمــالمكانــ
-    396730	0.18033	NgramTotal:     122	topNgram:      22	اعمال ــاسمــالمكانــ
-    376920	0.53846	NgramTotal:      13	topNgram:       7	وسافر الي ــاسمــالمكانــ
-    362916	0.24194	NgramTotal:      62	topNgram:      15	صنف تاريخ ــاسمــالمكانــ
-    357147	0.71429	NgramTotal:       7	topNgram:       5	الحنبلي نزيل ــاسمــالمكانــ
-    357147	0.71429	NgramTotal:       7	topNgram:       5	الحنابلة بــاسمــالمكانــ
-    349321	0.08317	NgramTotal:     505	topNgram:      42	اهل ــاسمــالمكانــ
-    336837	0.42105	NgramTotal:      19	topNgram:       8	تصانيفه تاريخ ــاسمــالمكانــ
-    333326	0.33333	NgramTotal:      30	topNgram:      10	المالكي نزيل ــاسمــالمكانــ
-    327267	0.54545	NgramTotal:      11	topNgram:       6	مرج ــاسمــالمكانــ
-    320000	0.80000	NgramTotal:       5	topNgram:       4	الي ساكني ــاسمــالمكانــ
-    320000	0.80000	NgramTotal:       5	topNgram:       4	الاديب نزيل ــاسمــالمكانــ
-    320000	0.40000	NgramTotal:      20	topNgram:       8	المالكي المتوفي بــاسمــالمكانــ
-    318412	0.28947	NgramTotal:      38	topNgram:      11	من ملوك ــاسمــالمكانــ
-    312500	0.62500	NgramTotal:       8	topNgram:       5	كوي وــاسمــالمكانــ
-    312500	0.62500	NgramTotal:       8	topNgram:       5	تفقه بــاسمــالمكانــ
-    306250	0.21875	NgramTotal:      64	topNgram:      14	نشر ــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	وعاد الي ــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	ناحية بــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	علي الشقاءق ــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	سنة قدم ــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	اهل المرية بــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	المحدث بــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	الطبيب المتوفي بــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	البلاد وتوفي بــاسمــالمكانــ
-    300000	1.00000	NgramTotal:       3	topNgram:       3	البصري نزيل ــاسمــالمكانــ
-    300000	0.50000	NgramTotal:      12	topNgram:       6	من اءمة ــاسمــالمكانــ
-    300000	0.50000	NgramTotal:      12	topNgram:       6	قتيلا بــاسمــالمكانــ
-    299994	0.33333	NgramTotal:      27	topNgram:       9	سنة بــاسمــالمكانــ
-    288228	0.41176	NgramTotal:      17	topNgram:       7	لءلءة ــاسمــالمكانــ
-    279719	0.13986	NgramTotal:     143	topNgram:      20	القاضي بــاسمــالمكانــ
-    279301	0.15517	NgramTotal:     116	topNgram:      18	في تاريخ ــاسمــالمكانــ
-    276924	0.46154	NgramTotal:      13	topNgram:       6	ولد سنة بــاسمــالمكانــ
-    266669	0.66667	NgramTotal:       6	topNgram:       4	الاندلسي نزيل ــاسمــالمكانــ
-    266669	0.66667	NgramTotal:       6	topNgram:       4	الامامية بــاسمــالمكانــ
-    266669	0.66667	NgramTotal:       6	topNgram:       4	الامامي نزيل ــاسمــالمكانــ
-    266661	0.22222	NgramTotal:      54	topNgram:      12	ورجع الي ــاسمــالمكانــ
-    256000	0.32000	NgramTotal:      25	topNgram:       8	الحنفي توفي بــاسمــالمكانــ
-    228572	0.57143	NgramTotal:       7	topNgram:       4	وثمانماءة بــاسمــالمكانــ
-    228572	0.57143	NgramTotal:       7	topNgram:       4	شهيدا بــاسمــالمكانــ
-    228572	0.57143	NgramTotal:       7	topNgram:       4	ساكني ــاسمــالمكانــ
-    228572	0.57143	NgramTotal:       7	topNgram:       4	حاجا بــاسمــالمكانــ
-    228572	0.57143	NgramTotal:       7	topNgram:       4	بلدة بين ــاسمــالمكانــ
-    228572	0.57143	NgramTotal:       7	topNgram:       4	البلاد وسكن ــاسمــالمكانــ
-    228308	0.20755	NgramTotal:      53	topNgram:      11	له تاريخ ــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	والحجاز وــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	مدرس النظامية بــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	قلعة بــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	الشيعة الامامية بــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	الشيرازي نزيل ــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	الاصبهاني نزيل ــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	اخبار شعراء ــاسمــالمكانــ
-    225000	0.75000	NgramTotal:       4	topNgram:       3	اخبار امراء ــاسمــالمكانــ
-    225000	0.25000	NgramTotal:      36	topNgram:       9	اصله من ــاسمــالمكانــ
-    211763	0.35294	NgramTotal:      17	topNgram:       6	الشافعي القاضي بــاسمــالمكانــ
-    208336	0.41667	NgramTotal:      12	topNgram:       5	وانتقل الي ــاسمــالمكانــ
-    208336	0.41667	NgramTotal:      12	topNgram:       5	اخبار قضاة ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	وستين وستماءة بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	وتوفي قتيلا بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	واللغة توفي بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	مفاخرة اهل ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	مصر والحجاز وــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	مشكلات الشجرة ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	مسموما بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	محمد اليماني ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	لساكني ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	كتاب مرج ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	عشرة وسبعماءة بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	طالق فجر ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	سنة سكن ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	سكنت ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	رزيق بن ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	حلب ولد بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	به قطر ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	بنواحي ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	بليدة بناحية ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	بجامع الاموية بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	اي مجمع ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	اليمني نزيل ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الهمداني نزيل ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	المعجم لمشيخة ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	المعتزلي نزيل ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	المشرق وسكن ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	المستنصرية بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	المحدث المجاور بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	المتوفي واليا بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الفارسي نزيل ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الغرام لساكني ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الشيعي قدم ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الشافعي مقري ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	السمنطاوي ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الرفاعي نزيل ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الدارمي محدث ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الحسني اليماني ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الحرم توفي بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	التفضل بين ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الاموية بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	الاصل سكن ــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	اسلم وتوفي بــاسمــالمكانــ
-    200000	1.00000	NgramTotal:       2	topNgram:       2	ابناء الاءمة ــاسمــالمكانــ
-    200000	0.50000	NgramTotal:       8	topNgram:       4	النحوي نزيل ــاسمــالمكانــ
-    189474	0.31579	NgramTotal:      19	topNgram:       6	مقتولا بــاسمــالمكانــ
-    179999	0.60000	NgramTotal:       5	topNgram:       3	مسجونا بــاسمــالمكانــ
-    179999	0.60000	NgramTotal:       5	topNgram:       3	اللغوي نزيل ــاسمــالمكانــ
-    179999	0.60000	NgramTotal:       5	topNgram:       3	الشافعي قدم ــاسمــالمكانــ
-    178568	0.35714	NgramTotal:      14	topNgram:       5	ذيل تاريخ ــاسمــالمكانــ
-    177774	0.44444	NgramTotal:       9	topNgram:       4	من سادات ــاسمــالمكانــ
-    168426	0.21053	NgramTotal:      38	topNgram:       8	قرية بــاسمــالمكانــ
-    166663	0.33333	NgramTotal:      15	topNgram:       5	الشافعية بــاسمــالمكانــ
-    165742	0.15068	NgramTotal:      73	topNgram:      11	الصنعاني ــاسمــالمكانــ
-    160000	0.40000	NgramTotal:      10	topNgram:       4	عن قضاء ــاسمــالمكانــ
-    160000	0.40000	NgramTotal:      10	topNgram:       4	الصنعاني اليمني ــاسمــالمكانــ
-    156522	0.26087	NgramTotal:      23	topNgram:       6	والف بــاسمــالمكانــ
-    153192	0.12766	NgramTotal:      94	topNgram:      12	من علماء ــاسمــالمكانــ
-    153163	0.06962	NgramTotal:     316	topNgram:      22	قري ــاسمــالمكانــ
-    150000	0.50000	NgramTotal:       6	topNgram:       3	وسبعماءة بــاسمــالمكانــ
-    150000	0.50000	NgramTotal:       6	topNgram:       3	صار قاضيا بــاسمــالمكانــ
-    150000	0.50000	NgramTotal:       6	topNgram:       3	النحوي المتوفي بــاسمــالمكانــ
-    150000	0.50000	NgramTotal:       6	topNgram:       3	الشافعي المفتي بــاسمــالمكانــ
-    150000	0.50000	NgramTotal:       6	topNgram:       3	الحنفي قاضي ــاسمــالمكانــ
-    148912	0.06769	NgramTotal:     325	topNgram:      22	محدث ــاسمــالمكانــ
-    145457	0.36364	NgramTotal:      11	topNgram:       4	قاضي القضاة بــاسمــالمكانــ
-    145457	0.36364	NgramTotal:      11	topNgram:       4	توفي قاضيا بــاسمــالمكانــ
-    144000	0.24000	NgramTotal:      25	topNgram:       6	الحنفي المتوفي بــاسمــالمكانــ
-    139087	0.12644	NgramTotal:      87	topNgram:      11	المفتي بــاسمــالمكانــ
-    137500	0.12500	NgramTotal:      88	topNgram:      11	فتوح ــاسمــالمكانــ
-    137249	0.07224	NgramTotal:     263	topNgram:      19	علماء ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	وعشرين وثمانماءة بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	وتوفي بين ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	وتسعين وثمانماءة بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	مدينة بين ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	مدة بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	قاضي الحنابلة بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	فارسي كوي وــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	شيخ الحنابلة بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	شاعرا توفي بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	سنة ونشا بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	رءيس الاطباء بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	خطيب جامع ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	بناحية ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	المقري توفي بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	القادري نزيل ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	الفقيه نزيل ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	الطبيب توفي بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	الصنعاني اليماني ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	الشافعي تفقه بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	الرومي المتوفي بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	الحرم بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	الحافظ محدث ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	الجيم محلة بــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	الانسي اليمني ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	ارتحل الي ــاسمــالمكانــ
-    133334	0.66667	NgramTotal:       3	topNgram:       2	اخر بلسان ــاسمــالمكانــ
-    133330	0.33333	NgramTotal:      12	topNgram:       4	القضاة بــاسمــالمكانــ
-    133330	0.33333	NgramTotal:      12	topNgram:       4	الشاعر المتوفي بــاسمــالمكانــ
-    131581	0.26316	NgramTotal:      19	topNgram:       5	الصوفي نزيل ــاسمــالمكانــ
-    130619	0.16327	NgramTotal:      49	topNgram:       8	وسكن ــاسمــالمكانــ
-    128570	0.42857	NgramTotal:       7	topNgram:       3	ثم الي ــاسمــالمكانــ
-    128570	0.42857	NgramTotal:       7	topNgram:       3	المقري نزيل ــاسمــالمكانــ
-    128570	0.42857	NgramTotal:       7	topNgram:       3	المتوفي قتيلا بــاسمــالمكانــ
-    128000	0.16000	NgramTotal:      50	topNgram:       8	انتقل الي ــاسمــالمكانــ
-    125222	0.10435	NgramTotal:     115	topNgram:      12	مطبوع بــاسمــالمكانــ
-    114937	0.05747	NgramTotal:     348	topNgram:      20	فضاءل ــاسمــالمكانــ
-    114282	0.28571	NgramTotal:      14	topNgram:       4	كان قاضيا بــاسمــالمكانــ
-    114282	0.28571	NgramTotal:      14	topNgram:       4	فرغ منها بــاسمــالمكانــ
-    112500	0.37500	NgramTotal:       8	topNgram:       3	وستماءة بــاسمــالمكانــ
-    106669	0.26667	NgramTotal:      15	topNgram:       4	في صفات ــاسمــالمكانــ
-    101580	0.12698	NgramTotal:      63	topNgram:       8	امراء ــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	وخمسماءة بــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	واربعماءة بــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	من اله ــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	غريقا بــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	تفسير السبع ــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	بمصر ولد بــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	الي الحجاز وــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	الشاعر توفي بــاسمــالمكانــ
-    100000	0.50000	NgramTotal:       4	topNgram:       2	الجماعة بــاسمــالمكانــ
-     99998	0.33333	NgramTotal:       9	topNgram:       3	وقدم ــاسمــالمكانــ
-     99998	0.33333	NgramTotal:       9	topNgram:       3	الصوفي المتوفي بــاسمــالمكانــ
-     99998	0.33333	NgramTotal:       9	topNgram:       3	الحنفي مفتي ــاسمــالمكانــ
-     96156	0.19231	NgramTotal:      26	topNgram:       5	من امراء ــاسمــالمكانــ
-     94114	0.23529	NgramTotal:      17	topNgram:       4	منها بــاسمــالمكانــ
-     94114	0.23529	NgramTotal:      17	topNgram:       4	الشجرة ــاسمــالمكانــ
-     94114	0.23529	NgramTotal:      17	topNgram:       4	الحنفية بــاسمــالمكانــ
-     92597	0.18519	NgramTotal:      27	topNgram:       5	رحل الي ــاسمــالمكانــ
-     89999	0.30000	NgramTotal:      10	topNgram:       3	الكتب تاريخ ــاسمــالمكانــ
-     88887	0.22222	NgramTotal:      18	topNgram:       4	ودفن بــاسمــالمكانــ
-     88887	0.22222	NgramTotal:      18	topNgram:       4	من اكابر ــاسمــالمكانــ
-     88692	0.06335	NgramTotal:     221	topNgram:      14	ملوك ــاسمــالمكانــ
-     84739	0.04985	NgramTotal:     341	topNgram:      17	اليمني ــاسمــالمكانــ
-     81819	0.27273	NgramTotal:      11	topNgram:       3	وتسعماءة بــاسمــالمكانــ
-     81819	0.27273	NgramTotal:      11	topNgram:       3	ثم قدم ــاسمــالمكانــ
-     81819	0.27273	NgramTotal:      11	topNgram:       3	الحجاز وــاسمــالمكانــ
-     81819	0.27273	NgramTotal:      11	topNgram:       3	الحج بــاسمــالمكانــ
-     80137	0.07285	NgramTotal:     151	topNgram:      11	في اخبار ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	وماءتين بــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	وتولي قضاء ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	مسلم كتاب ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	محمد العلوي ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	مجاورا بــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	فوق ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	خلفاء الشيخ ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	توفي مسجونا بــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	به اهل ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	الصوفي ولد بــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	البغدادي نزيل ــاسمــالمكانــ
-     80000	0.40000	NgramTotal:       5	topNgram:       2	الاطباء بــاسمــالمكانــ
-     78617	0.06047	NgramTotal:     215	topNgram:      13	الدر ــاسمــالمكانــ
-     75697	0.08411	NgramTotal:     107	topNgram:       9	ولي قضاء ــاسمــالمكانــ
-     74426	0.02863	NgramTotal:     908	topNgram:      26	اخبار ــاسمــالمكانــ
-     72728	0.18182	NgramTotal:      22	topNgram:       4	من بلاد ــاسمــالمكانــ
-     69231	0.23077	NgramTotal:      13	topNgram:       3	السادات ــاسمــالمكانــ
-     66665	0.33333	NgramTotal:       6	topNgram:       2	توفي شهيدا بــاسمــالمكانــ
-     66665	0.33333	NgramTotal:       6	topNgram:       2	توفي حاجا بــاسمــالمكانــ
-     66665	0.33333	NgramTotal:       6	topNgram:       2	المسيحي نزيل ــاسمــالمكانــ
-     66665	0.33333	NgramTotal:       6	topNgram:       2	الاديب المتوفي بــاسمــالمكانــ
-     66665	0.33333	NgramTotal:       6	topNgram:       2	الاخسيكثي ــاسمــالمكانــ
-     64288	0.21429	NgramTotal:      14	topNgram:       3	القدس وــاسمــالمكانــ
-     64282	0.10714	NgramTotal:      56	topNgram:       6	السبع ــاسمــالمكانــ
-     62704	0.03135	NgramTotal:     638	topNgram:      20	بين ــاسمــالمكانــ
-     61541	0.15385	NgramTotal:      26	topNgram:       4	سادات ــاسمــالمكانــ
-     61541	0.15385	NgramTotal:      26	topNgram:       4	الحنفي المفتي بــاسمــالمكانــ
-     60000	0.20000	NgramTotal:      15	topNgram:       3	فجر ــاسمــالمكانــ
-     60000	0.20000	NgramTotal:      15	topNgram:       3	الشافعي قاضي ــاسمــالمكانــ
-     59260	0.14815	NgramTotal:      27	topNgram:       4	ولد في ــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	وثلاثماءة بــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	مفتي الشافعية بــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	محمد الصنعاني ــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	كورة بــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	قريب من ــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	عن الحج بــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	طبع بــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	بلد بــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	المالكية بــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	الشاعر نزيل ــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	الري وــاسمــالمكانــ
-     57141	0.28571	NgramTotal:       7	topNgram:       2	الرومي نزيل ــاسمــالمكانــ
-     55393	0.02638	NgramTotal:     796	topNgram:      21	قاضي ــاسمــالمكانــ
-     53265	0.07609	NgramTotal:      92	topNgram:       7	في فقه ــاسمــالمكانــ
-     50002	0.16667	NgramTotal:      18	topNgram:       3	شرح عروض ــاسمــالمكانــ
-     50000	0.25000	NgramTotal:       8	topNgram:       2	وماءة والف بــاسمــالمكانــ
-     50000	0.25000	NgramTotal:       8	topNgram:       2	واليا بــاسمــالمكانــ
-     50000	0.25000	NgramTotal:       8	topNgram:       2	موضع بــاسمــالمكانــ
-     50000	0.25000	NgramTotal:       8	topNgram:       2	رحلة الي ــاسمــالمكانــ
-     50000	0.25000	NgramTotal:       8	topNgram:       2	توطن بــاسمــالمكانــ
-     50000	0.25000	NgramTotal:       8	topNgram:       2	الصوفي توفي بــاسمــالمكانــ
-     50000	0.12500	NgramTotal:      32	topNgram:       4	اكابر ــاسمــالمكانــ
-     49499	0.07071	NgramTotal:      99	topNgram:       7	بلاد ــاسمــالمكانــ
-     44443	0.22222	NgramTotal:       9	topNgram:       2	قريبا من ــاسمــالمكانــ
-     44443	0.22222	NgramTotal:       9	topNgram:       2	بابن خطيب ــاسمــالمكانــ
-     44443	0.22222	NgramTotal:       9	topNgram:       2	المفاخرة بين ــاسمــالمكانــ
-     44443	0.22222	NgramTotal:       9	topNgram:       2	المالكي توفي بــاسمــالمكانــ
-     42858	0.14286	NgramTotal:      21	topNgram:       3	بلدة بــاسمــالمكانــ
-     40906	0.13636	NgramTotal:      22	topNgram:       3	كان يدرس بــاسمــالمكانــ
-     40000	0.20000	NgramTotal:      10	topNgram:       2	وقعة ــاسمــالمكانــ
-     40000	0.20000	NgramTotal:      10	topNgram:       2	في فتح ــاسمــالمكانــ
-     40000	0.20000	NgramTotal:      10	topNgram:       2	الي بلاد ــاسمــالمكانــ
-     40000	0.20000	NgramTotal:      10	topNgram:       2	العلماء بــاسمــالمكانــ
-     37648	0.04706	NgramTotal:     170	topNgram:       8	بلدة ــاسمــالمكانــ
-     37316	0.07463	NgramTotal:      67	topNgram:       5	قرب ــاسمــالمكانــ
-     36364	0.18182	NgramTotal:      11	topNgram:       2	ونشا بــاسمــالمكانــ
-     36364	0.18182	NgramTotal:      11	topNgram:       2	من توابع ــاسمــالمكانــ
-     36364	0.18182	NgramTotal:      11	topNgram:       2	كبيرة في ــاسمــالمكانــ
-     36364	0.18182	NgramTotal:      11	topNgram:       2	في شعراء ــاسمــالمكانــ
-     36364	0.18182	NgramTotal:      11	topNgram:       2	صنف فضاءل ــاسمــالمكانــ
-     36364	0.18182	NgramTotal:      11	topNgram:       2	القراء بــاسمــالمكانــ
-     36000	0.12000	NgramTotal:      25	topNgram:       3	بلسان ــاسمــالمكانــ
-     34785	0.08696	NgramTotal:      46	topNgram:       4	شرح العقاءد ــاسمــالمكانــ
-     34329	0.03814	NgramTotal:     236	topNgram:       9	صاحب ــاسمــالمكانــ
-     33957	0.05660	NgramTotal:     106	topNgram:       6	دخل ــاسمــالمكانــ
-     33334	0.16667	NgramTotal:      12	topNgram:       2	صنف الدر ــاسمــالمكانــ
-     33332	0.11111	NgramTotal:      27	topNgram:       3	في بلدة ــاسمــالمكانــ
-     33332	0.11111	NgramTotal:      27	topNgram:       3	المتوكل ــاسمــالمكانــ
-     32141	0.10714	NgramTotal:      28	topNgram:       3	يدرس بــاسمــالمكانــ
-     31861	0.05310	NgramTotal:     113	topNgram:       6	مصر وــاسمــالمكانــ
-     31839	0.03980	NgramTotal:     201	topNgram:       8	خطيب ــاسمــالمكانــ
-     31676	0.03960	NgramTotal:     202	topNgram:       8	شعراء ــاسمــالمكانــ
-     30770	0.15385	NgramTotal:      13	topNgram:       2	مجلدات مطبوع بــاسمــالمكانــ
-     30770	0.15385	NgramTotal:      13	topNgram:       2	لمشيخة ــاسمــالمكانــ
-     30770	0.15385	NgramTotal:      13	topNgram:       2	اقام بــاسمــالمكانــ
-     30000	0.10000	NgramTotal:      30	topNgram:       3	في محاسن ــاسمــالمكانــ
-     28572	0.14286	NgramTotal:      14	topNgram:       2	من تاريخ ــاسمــالمكانــ
-     28572	0.14286	NgramTotal:      14	topNgram:       2	له الرسالة ــاسمــالمكانــ
-     28572	0.14286	NgramTotal:      14	topNgram:       2	جبال ــاسمــالمكانــ
-     28572	0.14286	NgramTotal:      14	topNgram:       2	الحديث بــاسمــالمكانــ
-     28341	0.04724	NgramTotal:     127	topNgram:       6	قضاة ــاسمــالمكانــ
-     28125	0.09375	NgramTotal:      32	topNgram:       3	من فقهاء ــاسمــالمكانــ
-     27905	0.04651	NgramTotal:     129	topNgram:       6	في فضاءل ــاسمــالمكانــ
-     26665	0.13333	NgramTotal:      15	topNgram:       2	في زيارة ــاسمــالمكانــ
-     26665	0.13333	NgramTotal:      15	topNgram:       2	علي تاريخ ــاسمــالمكانــ
-     26665	0.13333	NgramTotal:      15	topNgram:       2	توفي مقتولا بــاسمــالمكانــ
-     25423	0.00565	NgramTotal:    7964	topNgram:      45	من ــاسمــالمكانــ
-     25000	0.12500	NgramTotal:      16	topNgram:       2	توابع ــاسمــالمكانــ
-     25000	0.12500	NgramTotal:      16	topNgram:       2	بطريق ــاسمــالمكانــ
-     22536	0.05634	NgramTotal:      71	topNgram:       4	ومات بــاسمــالمكانــ
-     22499	0.07500	NgramTotal:      40	topNgram:       3	زيارة ــاسمــالمكانــ
-     22225	0.05556	NgramTotal:      72	topNgram:       4	العلوي ــاسمــالمكانــ
-     22221	0.11111	NgramTotal:      18	topNgram:       2	مجلد مطبوع بــاسمــالمكانــ
-     22221	0.11111	NgramTotal:      18	topNgram:       2	تصانيفه اخبار ــاسمــالمكانــ
-     21740	0.04348	NgramTotal:     115	topNgram:       5	فقهاء ــاسمــالمكانــ
-     21051	0.10526	NgramTotal:      19	topNgram:       2	نشا بــاسمــالمكانــ
-     20341	0.03390	NgramTotal:     177	topNgram:       6	اءمة ــاسمــالمكانــ
-     20000	0.10000	NgramTotal:      20	topNgram:       2	صنف اخبار ــاسمــالمكانــ
-     20000	0.10000	NgramTotal:      20	topNgram:       2	ابن خطيب ــاسمــالمكانــ
-     19566	0.06522	NgramTotal:      46	topNgram:       3	تفضيل ــاسمــالمكانــ
-     19048	0.04762	NgramTotal:      84	topNgram:       4	صفات ــاسمــالمكانــ
-     18793	0.03759	NgramTotal:     133	topNgram:       5	مات بــاسمــالمكانــ
-     17392	0.08696	NgramTotal:      23	topNgram:       2	شرح عقاءد ــاسمــالمكانــ
-     16665	0.08333	NgramTotal:      24	topNgram:       2	العوامل ــاسمــالمكانــ
-     16000	0.08000	NgramTotal:      25	topNgram:       2	مفاخر ــاسمــالمكانــ
-     15383	0.07692	NgramTotal:      26	topNgram:       2	في طريق ــاسمــالمكانــ
-     15383	0.07692	NgramTotal:      26	topNgram:       2	جاور ــاسمــالمكانــ
-     15383	0.07692	NgramTotal:      26	topNgram:       2	الخطيب بــاسمــالمكانــ
-     12990	0.00481	NgramTotal:    5615	topNgram:      27	ابن ــاسمــالمكانــ
-     12904	0.06452	NgramTotal:      31	topNgram:       2	من بلدة ــاسمــالمكانــ
-     12500	0.06250	NgramTotal:      32	topNgram:       2	من خلفاء ــاسمــالمكانــ
-     11787	0.02358	NgramTotal:     212	topNgram:       5	الرسالة ــاسمــالمكانــ
-     11763	0.05882	NgramTotal:      34	topNgram:       2	اخبار ابي ــاسمــالمكانــ
-     11187	0.02797	NgramTotal:     143	topNgram:       4	محاسن ــاسمــالمكانــ
-     11112	0.05556	NgramTotal:      36	topNgram:       2	مطلع ــاسمــالمكانــ
-     10827	0.02165	NgramTotal:     231	topNgram:       5	العقاءد ــاسمــالمكانــ
-     10711	0.03571	NgramTotal:      84	topNgram:       3	وهو كتاب ــاسمــالمكانــ
-     10525	0.05263	NgramTotal:      38	topNgram:       2	الشامي ــاسمــالمكانــ
-     10120	0.01446	NgramTotal:     484	topNgram:       7	فضل ــاسمــالمكانــ
-     10000	0.05000	NgramTotal:      40	topNgram:       2	جزيرة ــاسمــالمكانــ
-     10000	0.02500	NgramTotal:     160	topNgram:       4	ابن بــاسمــالمكانــ
-      9875	0.02469	NgramTotal:     162	topNgram:       4	عالم ــاسمــالمكانــ
-      9783	0.03261	NgramTotal:      92	topNgram:       3	شرح رسالة ــاسمــالمكانــ
-      9755	0.04878	NgramTotal:      41	topNgram:       2	مشرق ــاسمــالمكانــ
-      9338	0.00389	NgramTotal:    6171	topNgram:      24	كتاب ــاسمــالمكانــ
-      8696	0.04348	NgramTotal:      46	topNgram:       2	ملتقي ــاسمــالمكانــ
-      8570	0.02857	NgramTotal:     105	topNgram:       3	في فضل ــاسمــالمكانــ
-      8164	0.04082	NgramTotal:      49	topNgram:       2	قطر ــاسمــالمكانــ
-      8039	0.00187	NgramTotal:   22991	topNgram:      43	بن ــاسمــالمكانــ
-      7965	0.02655	NgramTotal:     113	topNgram:       3	احوال ــاسمــالمكانــ
-      7872	0.01125	NgramTotal:     622	topNgram:       7	فقه ــاسمــالمكانــ
-      7624	0.02542	NgramTotal:     118	topNgram:       3	والي ــاسمــالمكانــ
-      7548	0.03774	NgramTotal:      53	topNgram:       2	الحنفي القاضي بــاسمــالمكانــ
-      7032	0.02344	NgramTotal:     128	topNgram:       3	الاءمة ــاسمــالمكانــ
-      6989	0.01747	NgramTotal:     229	topNgram:       4	مدينة ــاسمــالمكانــ
-      6769	0.02256	NgramTotal:     133	topNgram:       3	اله ــاسمــالمكانــ
-      6618	0.02206	NgramTotal:     136	topNgram:       3	الملقب بــاسمــالمكانــ
-      6348	0.00794	NgramTotal:    1007	topNgram:       8	بابن ــاسمــالمكانــ
-      6154	0.03077	NgramTotal:      65	topNgram:       2	قصيدة البردة ــاسمــالمكانــ
-      6154	0.03077	NgramTotal:      65	topNgram:       2	ابن وــاسمــالمكانــ
-      5634	0.02817	NgramTotal:      71	topNgram:       2	رجع الي ــاسمــالمكانــ
-      5420	0.01807	NgramTotal:     166	topNgram:       3	مسند ــاسمــالمكانــ
-      5264	0.02632	NgramTotal:      76	topNgram:       2	بجامع ــاسمــالمكانــ
-      5186	0.00126	NgramTotal:   32668	topNgram:      41	في ــاسمــالمكانــ
-      5000	0.02500	NgramTotal:      80	topNgram:       2	العقد ــاسمــالمكانــ
-      4942	0.01648	NgramTotal:     182	topNgram:       3	عروض ــاسمــالمكانــ
-      4932	0.00822	NgramTotal:     730	topNgram:       6	فتح ــاسمــالمكانــ
-      4877	0.02439	NgramTotal:      82	topNgram:       2	البردة ــاسمــالمكانــ
-      4460	0.00743	NgramTotal:     808	topNgram:       6	المعروف بابن ــاسمــالمكانــ
-      3750	0.01250	NgramTotal:     240	topNgram:       3	مفتي ــاسمــالمكانــ
-      3447	0.01724	NgramTotal:     116	topNgram:       2	خلفاء ــاسمــالمكانــ
-      3447	0.01724	NgramTotal:     116	topNgram:       2	الشهير بابن ــاسمــالمكانــ
-      2991	0.00997	NgramTotal:     301	topNgram:       3	عقاءد ــاسمــالمكانــ
-      2548	0.01274	NgramTotal:     157	topNgram:       2	الشيعة ــاسمــالمكانــ
-      2454	0.01227	NgramTotal:     163	topNgram:       2	الحسني ــاسمــالمكانــ
-      2366	0.00197	NgramTotal:    6099	topNgram:      12	شرح ــاسمــالمكانــ
-      2326	0.01163	NgramTotal:     172	topNgram:       2	الفتاوي ــاسمــالمكانــ
-      2217	0.00370	NgramTotal:    1620	topNgram:       6	رسالة ــاسمــالمكانــ
-      2154	0.00718	NgramTotal:     418	topNgram:       3	بن بــاسمــالمكانــ
-      2118	0.00706	NgramTotal:     425	topNgram:       3	الرد علي ــاسمــالمكانــ
-      2106	0.01053	NgramTotal:     190	topNgram:       2	طريق ــاسمــالمكانــ
-      1952	0.00976	NgramTotal:     205	topNgram:       2	من تاليفه ــاسمــالمكانــ
-      1903	0.00952	NgramTotal:     210	topNgram:       2	المقري ــاسمــالمكانــ
-      1885	0.00943	NgramTotal:     212	topNgram:       2	تاليفه ــاسمــالمكانــ
-      1852	0.00926	NgramTotal:     216	topNgram:       2	مقري ــاسمــالمكانــ
-      1772	0.00443	NgramTotal:     903	topNgram:       4	تركي ــاسمــالمكانــ
-      1761	0.00881	NgramTotal:     227	topNgram:       2	رجال ــاسمــالمكانــ
-      1735	0.00347	NgramTotal:    1441	topNgram:       5	في شرح ــاسمــالمكانــ
-      1611	0.00403	NgramTotal:     992	topNgram:       4	الله بن ــاسمــالمكانــ
-      1563	0.00521	NgramTotal:     576	topNgram:       3	علي شرح ــاسمــالمكانــ
-      1507	0.00503	NgramTotal:     596	topNgram:       3	الشيخ ــاسمــالمكانــ
-      1506	0.00502	NgramTotal:     598	topNgram:       3	الشهير بــاسمــالمكانــ
-      1443	0.00722	NgramTotal:     277	topNgram:       2	جواهر ــاسمــالمكانــ
-      1437	0.00719	NgramTotal:     278	topNgram:       2	مذهب ــاسمــالمكانــ
-      1437	0.00719	NgramTotal:     278	topNgram:       2	اداب ــاسمــالمكانــ
-      1380	0.00690	NgramTotal:     290	topNgram:       2	يوسف بن ــاسمــالمكانــ
-      1368	0.00456	NgramTotal:     658	topNgram:       3	ثم ــاسمــالمكانــ
-      1327	0.00190	NgramTotal:    3677	topNgram:       7	ابو ــاسمــالمكانــ
-      1322	0.00189	NgramTotal:    3702	topNgram:       7	محمد بن ــاسمــالمكانــ
-      1270	0.00635	NgramTotal:     315	topNgram:       2	ملك ــاسمــالمكانــ
-      1268	0.00423	NgramTotal:     709	topNgram:       3	جامع ــاسمــالمكانــ
-      1225	0.00613	NgramTotal:     326	topNgram:       2	الحسن بن ــاسمــالمكانــ
-      1180	0.00236	NgramTotal:    2120	topNgram:       5	ابي ــاسمــالمكانــ
-      1082	0.00541	NgramTotal:     370	topNgram:       2	لتاريخ ــاسمــالمكانــ
-      1053	0.00351	NgramTotal:     855	topNgram:       3	ديوان شعره ــاسمــالمكانــ
-      1028	0.00343	NgramTotal:     874	topNgram:       3	شعره ــاسمــالمكانــ
-       736	0.00368	NgramTotal:     544	topNgram:       2	ابراهيم بن ــاسمــالمكانــ
-       592	0.00296	NgramTotal:     676	topNgram:       2	في النحو ــاسمــالمكانــ
-       576	0.00096	NgramTotal:    6253	topNgram:       6	علي ــاسمــالمكانــ
-       555	0.00278	NgramTotal:     719	topNgram:       2	توفي في ــاسمــالمكانــ
-       544	0.00272	NgramTotal:     736	topNgram:       2	المتخلص بــاسمــالمكانــ
-       543	0.00272	NgramTotal:     734	topNgram:       2	الدين ابو ــاسمــالمكانــ
-       536	0.00268	NgramTotal:     747	topNgram:       2	النحو ــاسمــالمكانــ
-       511	0.00256	NgramTotal:     780	topNgram:       2	عن ــاسمــالمكانــ
-       510	0.00255	NgramTotal:     785	topNgram:       2	مختصر ــاسمــالمكانــ
-       452	0.00226	NgramTotal:     885	topNgram:       2	شيخ ــاسمــالمكانــ
-       421	0.00211	NgramTotal:     946	topNgram:       2	علم ــاسمــالمكانــ
-       288	0.00144	NgramTotal:    1390	topNgram:       2	علي بن ــاسمــالمكانــ
-       223	0.00112	NgramTotal:    1778	topNgram:       2	احمد بن ــاسمــالمكانــ
-       216	0.00108	NgramTotal:    1852	topNgram:       2	الحنفي ــاسمــالمكانــ
-       210	0.00105	NgramTotal:    1909	topNgram:       2	المعروف بــاسمــالمكانــ
-       189	0.00047	NgramTotal:    8557	topNgram:       4	له ــاسمــالمكانــ
-       161	0.00081	NgramTotal:    2464	topNgram:       2	صنف ــاسمــالمكانــ
-        67	0.00034	NgramTotal:    5859	topNgram:       2	محمد ــاسمــالمكانــ
+1.00000	NgramTotal:       5	topNgram:       5	من لءلءة ــاسمــالمكانــ
+1.00000	NgramTotal:       5	topNgram:       5	قريبة من ــاسمــالمكانــ
+1.00000	NgramTotal:       4	topNgram:       4	ذيل الشقاءق ــاسمــالمكانــ
+1.00000	NgramTotal:       4	topNgram:       4	تاريخ علماء ــاسمــالمكانــ
+1.00000	NgramTotal:       4	topNgram:       4	بالمدرسة النظامية بــاسمــالمكانــ
+1.00000	NgramTotal:       4	topNgram:       4	المرية بــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	وعاد الي ــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	ناحية بــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	علي الشقاءق ــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	سنة قدم ــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	اهل المرية بــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	المحدث بــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	الطبيب المتوفي بــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	البلاد وتوفي بــاسمــالمكانــ
+1.00000	NgramTotal:       3	topNgram:       3	البصري نزيل ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	وستين وستماءة بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	وتوفي قتيلا بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	واللغة توفي بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	مفاخرة اهل ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	مصر والحجاز وــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	مشكلات الشجرة ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	مسموما بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	لساكني ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	عشرة وسبعماءة بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	سكنت ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	به قطر ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	بنواحي ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	بليدة بناحية ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	بجامع الاموية بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	اي مجمع ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	اليمني نزيل ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الهمداني نزيل ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	المعجم لمشيخة ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	المعتزلي نزيل ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	المشرق وسكن ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	المستنصرية بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	المحدث المجاور بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الفارسي نزيل ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الغرام لساكني ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الشيعي قدم ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الشافعي مقري ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الرفاعي نزيل ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الدارمي محدث ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الحرم توفي بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	التفضل بين ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الاموية بــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	الاصل سكن ــاسمــالمكانــ
+1.00000	NgramTotal:       2	topNgram:       2	اسلم وتوفي بــاسمــالمكانــ
+0.88889	NgramTotal:       9	topNgram:       8	النظامية بــاسمــالمكانــ
+0.80000	NgramTotal:      10	topNgram:       8	المحدث نزيل ــاسمــالمكانــ
+0.80000	NgramTotal:       5	topNgram:       4	الي ساكني ــاسمــالمكانــ
+0.80000	NgramTotal:       5	topNgram:       4	الاديب نزيل ــاسمــالمكانــ
+0.75000	NgramTotal:       8	topNgram:       6	الطبيب نزيل ــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	والحجاز وــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	واستوطن ــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	مدرس النظامية بــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	قلعة بــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	الشيعة الامامية بــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	الشيرازي نزيل ــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	الاصبهاني نزيل ــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	اخبار شعراء ــاسمــالمكانــ
+0.75000	NgramTotal:       4	topNgram:       3	اخبار امراء ــاسمــالمكانــ
+0.72222	NgramTotal:      18	topNgram:      13	من نواحي ــاسمــالمكانــ
+0.71429	NgramTotal:       7	topNgram:       5	الحنبلي نزيل ــاسمــالمكانــ
+0.71429	NgramTotal:       7	topNgram:       5	الحنابلة بــاسمــالمكانــ
+0.70000	NgramTotal:      10	topNgram:       7	المجاور بــاسمــالمكانــ
+0.69231	NgramTotal:      13	topNgram:       9	محلة بــاسمــالمكانــ
+0.66667	NgramTotal:       6	topNgram:       4	الاندلسي نزيل ــاسمــالمكانــ
+0.66667	NgramTotal:       6	topNgram:       4	الامامية بــاسمــالمكانــ
+0.66667	NgramTotal:       6	topNgram:       4	الامامي نزيل ــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	وعشرين وثمانماءة بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	وتوفي بين ــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	وتسعين وثمانماءة بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	مدينة بين ــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	مدة بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	قاضي الحنابلة بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	شيخ الحنابلة بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	سنة ونشا بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	رءيس الاطباء بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	بناحية ــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	المقري توفي بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	القادري نزيل ــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	الفقيه نزيل ــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	الطبيب توفي بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	الشافعي تفقه بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	الرومي المتوفي بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	الحرم بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	الحافظ محدث ــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	الجيم محلة بــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	ارتحل الي ــاسمــالمكانــ
+0.66667	NgramTotal:       3	topNgram:       2	اخر بلسان ــاسمــالمكانــ
+0.63636	NgramTotal:      11	topNgram:       7	شرح مجمع ــاسمــالمكانــ
+0.63636	NgramTotal:      11	topNgram:       7	الشافعي توفي بــاسمــالمكانــ
+0.62500	NgramTotal:       8	topNgram:       5	تفقه بــاسمــالمكانــ
+0.60000	NgramTotal:       5	topNgram:       3	مسجونا بــاسمــالمكانــ
+0.60000	NgramTotal:       5	topNgram:       3	اللغوي نزيل ــاسمــالمكانــ
+0.60000	NgramTotal:       5	topNgram:       3	الشافعي قدم ــاسمــالمكانــ
+0.57143	NgramTotal:       7	topNgram:       4	وثمانماءة بــاسمــالمكانــ
+0.57143	NgramTotal:       7	topNgram:       4	شهيدا بــاسمــالمكانــ
+0.57143	NgramTotal:       7	topNgram:       4	ساكني ــاسمــالمكانــ
+0.57143	NgramTotal:       7	topNgram:       4	حاجا بــاسمــالمكانــ
+0.57143	NgramTotal:       7	topNgram:       4	بلدة بين ــاسمــالمكانــ
+0.56522	NgramTotal:      23	topNgram:      13	نواحي ــاسمــالمكانــ
+0.56250	NgramTotal:      16	topNgram:       9	الشقاءق ــاسمــالمكانــ
+0.53846	NgramTotal:      13	topNgram:       7	وسافر الي ــاسمــالمكانــ
+0.53333	NgramTotal:      15	topNgram:       8	الشافعي ولد بــاسمــالمكانــ
+0.50000	NgramTotal:      26	topNgram:      13	الشيعي نزيل ــاسمــالمكانــ
+0.50000	NgramTotal:      12	topNgram:       6	قتيلا بــاسمــالمكانــ
+0.50000	NgramTotal:       8	topNgram:       4	النحوي نزيل ــاسمــالمكانــ
+0.50000	NgramTotal:       6	topNgram:       3	وسبعماءة بــاسمــالمكانــ
+0.50000	NgramTotal:       6	topNgram:       3	صار قاضيا بــاسمــالمكانــ
+0.50000	NgramTotal:       6	topNgram:       3	النحوي المتوفي بــاسمــالمكانــ
+0.50000	NgramTotal:       6	topNgram:       3	الشافعي المفتي بــاسمــالمكانــ
+0.50000	NgramTotal:       6	topNgram:       3	الحنفي قاضي ــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	وخمسماءة بــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	واربعماءة بــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	من اله ــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	غريقا بــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	بمصر ولد بــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	الي الحجاز وــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	الشاعر توفي بــاسمــالمكانــ
+0.50000	NgramTotal:       4	topNgram:       2	الجماعة بــاسمــالمكانــ
+0.48649	NgramTotal:      37	topNgram:      18	من اعمال ــاسمــالمكانــ
+0.43478	NgramTotal:     115	topNgram:      50	سافر الي ــاسمــالمكانــ
+0.42857	NgramTotal:       7	topNgram:       3	ثم الي ــاسمــالمكانــ
+0.42857	NgramTotal:       7	topNgram:       3	المتوفي قتيلا بــاسمــالمكانــ
+0.42857	NgramTotal:       7	topNgram:       3	البلاد وسكن ــاسمــالمكانــ
+0.42308	NgramTotal:      26	topNgram:      11	الشافعي المتوفي بــاسمــالمكانــ
+0.42105	NgramTotal:      19	topNgram:       8	تصانيفه تاريخ ــاسمــالمكانــ
+0.41667	NgramTotal:      12	topNgram:       5	وانتقل الي ــاسمــالمكانــ
+0.41667	NgramTotal:      12	topNgram:       5	اخبار قضاة ــاسمــالمكانــ
+0.41538	NgramTotal:      65	topNgram:      27	الشافعي نزيل ــاسمــالمكانــ
+0.41237	NgramTotal:     291	topNgram:     120	سنة وتوفي بــاسمــالمكانــ
+0.41176	NgramTotal:      17	topNgram:       7	لءلءة ــاسمــالمكانــ
+0.40000	NgramTotal:      20	topNgram:       8	المالكي المتوفي بــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	وماءتين بــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	وتولي قضاء ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	مسلم كتاب ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	مجاورا بــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	فوق ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	توفي مسجونا بــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	به اهل ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	الصوفي ولد بــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	البغدادي نزيل ــاسمــالمكانــ
+0.40000	NgramTotal:       5	topNgram:       2	الاطباء بــاسمــالمكانــ
+0.37500	NgramTotal:       8	topNgram:       3	وستماءة بــاسمــالمكانــ
+0.36364	NgramTotal:      11	topNgram:       4	قاضي القضاة بــاسمــالمكانــ
+0.36364	NgramTotal:      11	topNgram:       4	توفي قاضيا بــاسمــالمكانــ
+0.35714	NgramTotal:      14	topNgram:       5	ذيل تاريخ ــاسمــالمكانــ
+0.35294	NgramTotal:      17	topNgram:       6	الشافعي القاضي بــاسمــالمكانــ
+0.34899	NgramTotal:     149	topNgram:      52	ولد بــاسمــالمكانــ
+0.33333	NgramTotal:      33	topNgram:      11	قاضيا بــاسمــالمكانــ
+0.33333	NgramTotal:      30	topNgram:      10	المالكي نزيل ــاسمــالمكانــ
+0.33333	NgramTotal:      15	topNgram:       5	الشافعية بــاسمــالمكانــ
+0.33333	NgramTotal:      12	topNgram:       4	القضاة بــاسمــالمكانــ
+0.33333	NgramTotal:       9	topNgram:       3	وقدم ــاسمــالمكانــ
+0.33333	NgramTotal:       9	topNgram:       3	الصوفي المتوفي بــاسمــالمكانــ
+0.33333	NgramTotal:       9	topNgram:       3	الحنفي مفتي ــاسمــالمكانــ
+0.33333	NgramTotal:       6	topNgram:       2	توفي شهيدا بــاسمــالمكانــ
+0.33333	NgramTotal:       6	topNgram:       2	توفي حاجا بــاسمــالمكانــ
+0.33333	NgramTotal:       6	topNgram:       2	المسيحي نزيل ــاسمــالمكانــ
+0.33333	NgramTotal:       6	topNgram:       2	الاديب المتوفي بــاسمــالمكانــ
+0.32065	NgramTotal:     736	topNgram:     236	نزيل ــاسمــالمكانــ
+0.32000	NgramTotal:      25	topNgram:       8	الحنفي توفي بــاسمــالمكانــ
+0.30769	NgramTotal:      13	topNgram:       4	ولد سنة بــاسمــالمكانــ
+0.30000	NgramTotal:      10	topNgram:       3	عن قضاء ــاسمــالمكانــ
+0.30000	NgramTotal:      10	topNgram:       3	الكتب تاريخ ــاسمــالمكانــ
+0.29870	NgramTotal:      77	topNgram:      23	الحنفي نزيل ــاسمــالمكانــ
+0.29688	NgramTotal:      64	topNgram:      19	من قري ــاسمــالمكانــ
+0.29079	NgramTotal:     478	topNgram:     139	وتوفي بــاسمــالمكانــ
+0.28947	NgramTotal:      38	topNgram:      11	من ملوك ــاسمــالمكانــ
+0.28571	NgramTotal:      14	topNgram:       4	فرغ منها بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	وثلاثماءة بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	مفتي الشافعية بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	كورة بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	قريب من ــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	عن الحج بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	طبع بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	بلد بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	المقري نزيل ــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	المالكية بــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	الشاعر نزيل ــاسمــالمكانــ
+0.28571	NgramTotal:       7	topNgram:       2	الرومي نزيل ــاسمــالمكانــ
+0.27660	NgramTotal:      94	topNgram:      26	تولي قضاء ــاسمــالمكانــ
+0.27586	NgramTotal:     116	topNgram:      32	قدم ــاسمــالمكانــ
+0.27273	NgramTotal:      11	topNgram:       3	وتسعماءة بــاسمــالمكانــ
+0.27273	NgramTotal:      11	topNgram:       3	مرج ــاسمــالمكانــ
+0.27273	NgramTotal:      11	topNgram:       3	ثم قدم ــاسمــالمكانــ
+0.27273	NgramTotal:      11	topNgram:       3	الحج بــاسمــالمكانــ
+0.26316	NgramTotal:      19	topNgram:       5	مقتولا بــاسمــالمكانــ
+0.26316	NgramTotal:      19	topNgram:       5	الصوفي نزيل ــاسمــالمكانــ
+0.26087	NgramTotal:      23	topNgram:       6	والف بــاسمــالمكانــ
+0.25926	NgramTotal:      27	topNgram:       7	سنة بــاسمــالمكانــ
+0.25000	NgramTotal:       8	topNgram:       2	وماءة والف بــاسمــالمكانــ
+0.25000	NgramTotal:       8	topNgram:       2	موضع بــاسمــالمكانــ
+0.25000	NgramTotal:       8	topNgram:       2	رحلة الي ــاسمــالمكانــ
+0.25000	NgramTotal:       8	topNgram:       2	توطن بــاسمــالمكانــ
+0.25000	NgramTotal:       8	topNgram:       2	الصوفي توفي بــاسمــالمكانــ
+0.24299	NgramTotal:     107	topNgram:      26	مجمع ــاسمــالمكانــ
+0.24194	NgramTotal:      62	topNgram:      15	صنف تاريخ ــاسمــالمكانــ
+0.24000	NgramTotal:      25	topNgram:       6	الحنفي المتوفي بــاسمــالمكانــ
+0.23529	NgramTotal:      17	topNgram:       4	منها بــاسمــالمكانــ
+0.23529	NgramTotal:      17	topNgram:       4	الشجرة ــاسمــالمكانــ
+0.23529	NgramTotal:      17	topNgram:       4	الحنفية بــاسمــالمكانــ
+0.23171	NgramTotal:      82	topNgram:      19	من اهل ــاسمــالمكانــ
+0.22222	NgramTotal:      54	topNgram:      12	ورجع الي ــاسمــالمكانــ
+0.22222	NgramTotal:      36	topNgram:       8	اصله من ــاسمــالمكانــ
+0.22222	NgramTotal:       9	topNgram:       2	من سادات ــاسمــالمكانــ
+0.22222	NgramTotal:       9	topNgram:       2	قريبا من ــاسمــالمكانــ
+0.22222	NgramTotal:       9	topNgram:       2	المفاخرة بين ــاسمــالمكانــ
+0.22222	NgramTotal:       9	topNgram:       2	المالكي توفي بــاسمــالمكانــ
+0.21818	NgramTotal:     165	topNgram:      36	سكن ــاسمــالمكانــ
+0.21429	NgramTotal:      14	topNgram:       3	كان قاضيا بــاسمــالمكانــ
+0.21429	NgramTotal:      14	topNgram:       3	القدس وــاسمــالمكانــ
+0.20968	NgramTotal:     186	topNgram:      39	قضاء ــاسمــالمكانــ
+0.20755	NgramTotal:      53	topNgram:      11	له تاريخ ــاسمــالمكانــ
+0.20000	NgramTotal:      15	topNgram:       3	الشافعي قاضي ــاسمــالمكانــ
+0.20000	NgramTotal:      10	topNgram:       2	وقعة ــاسمــالمكانــ
+0.20000	NgramTotal:      10	topNgram:       2	في فتح ــاسمــالمكانــ
+0.20000	NgramTotal:      10	topNgram:       2	الي بلاد ــاسمــالمكانــ
+0.20000	NgramTotal:      10	topNgram:       2	العلماء بــاسمــالمكانــ
+0.19231	NgramTotal:      26	topNgram:       5	من امراء ــاسمــالمكانــ
+0.18519	NgramTotal:      27	topNgram:       5	رحل الي ــاسمــالمكانــ
+0.18182	NgramTotal:      22	topNgram:       4	من بلاد ــاسمــالمكانــ
+0.18182	NgramTotal:      11	topNgram:       2	ونشا بــاسمــالمكانــ
+0.18182	NgramTotal:      11	topNgram:       2	من توابع ــاسمــالمكانــ
+0.18182	NgramTotal:      11	topNgram:       2	في شعراء ــاسمــالمكانــ
+0.18182	NgramTotal:      11	topNgram:       2	صنف فضاءل ــاسمــالمكانــ
+0.18182	NgramTotal:      11	topNgram:       2	القراء بــاسمــالمكانــ
+0.18182	NgramTotal:      11	topNgram:       2	الحجاز وــاسمــالمكانــ
+0.16667	NgramTotal:      18	topNgram:       3	ودفن بــاسمــالمكانــ
+0.16667	NgramTotal:      18	topNgram:       3	شرح عروض ــاسمــالمكانــ
+0.16667	NgramTotal:      12	topNgram:       2	الشاعر المتوفي بــاسمــالمكانــ
+0.16379	NgramTotal:     464	topNgram:      76	المتوفي بــاسمــالمكانــ
+0.16000	NgramTotal:      50	topNgram:       8	انتقل الي ــاسمــالمكانــ
+0.15789	NgramTotal:      38	topNgram:       6	قرية بــاسمــالمكانــ
+0.15574	NgramTotal:     122	topNgram:      19	اعمال ــاسمــالمكانــ
+0.15385	NgramTotal:      26	topNgram:       4	الحنفي المفتي بــاسمــالمكانــ
+0.15385	NgramTotal:      13	topNgram:       2	مجلدات مطبوع بــاسمــالمكانــ
+0.15385	NgramTotal:      13	topNgram:       2	لمشيخة ــاسمــالمكانــ
+0.15385	NgramTotal:      13	topNgram:       2	اقام بــاسمــالمكانــ
+0.14815	NgramTotal:      27	topNgram:       4	ولد في ــاسمــالمكانــ
+0.14655	NgramTotal:     116	topNgram:      17	في تاريخ ــاسمــالمكانــ
+0.14286	NgramTotal:      49	topNgram:       7	وسكن ــاسمــالمكانــ
+0.14286	NgramTotal:      21	topNgram:       3	بلدة بــاسمــالمكانــ
+0.14286	NgramTotal:      14	topNgram:       2	من تاريخ ــاسمــالمكانــ
+0.14286	NgramTotal:      14	topNgram:       2	جبال ــاسمــالمكانــ
+0.14286	NgramTotal:      14	topNgram:       2	الحديث بــاسمــالمكانــ
+0.13333	NgramTotal:      15	topNgram:       2	علي تاريخ ــاسمــالمكانــ
+0.13333	NgramTotal:      15	topNgram:       2	توفي مقتولا بــاسمــالمكانــ
+0.13287	NgramTotal:     143	topNgram:      19	القاضي بــاسمــالمكانــ
+0.12698	NgramTotal:      63	topNgram:       8	امراء ــاسمــالمكانــ
+0.12644	NgramTotal:      87	topNgram:      11	المفتي بــاسمــالمكانــ
+0.12500	NgramTotal:      88	topNgram:      11	فتوح ــاسمــالمكانــ
+0.12500	NgramTotal:      16	topNgram:       2	توابع ــاسمــالمكانــ
+0.12500	NgramTotal:      16	topNgram:       2	بطريق ــاسمــالمكانــ
+0.12000	NgramTotal:      25	topNgram:       3	بلسان ــاسمــالمكانــ
+0.11111	NgramTotal:      18	topNgram:       2	من اكابر ــاسمــالمكانــ
+0.11111	NgramTotal:      18	topNgram:       2	مجلد مطبوع بــاسمــالمكانــ
+0.11111	NgramTotal:      18	topNgram:       2	تصانيفه اخبار ــاسمــالمكانــ
+0.10526	NgramTotal:      19	topNgram:       2	نشا بــاسمــالمكانــ
+0.10435	NgramTotal:     115	topNgram:      12	مطبوع بــاسمــالمكانــ
+0.10000	NgramTotal:      30	topNgram:       3	في محاسن ــاسمــالمكانــ
+0.09785	NgramTotal:     838	topNgram:      82	تاريخ ــاسمــالمكانــ
+0.09091	NgramTotal:      22	topNgram:       2	كان يدرس بــاسمــالمكانــ
+0.08000	NgramTotal:      25	topNgram:       2	مفاخر ــاسمــالمكانــ
+0.07692	NgramTotal:      26	topNgram:       2	في طريق ــاسمــالمكانــ
+0.07692	NgramTotal:      26	topNgram:       2	سادات ــاسمــالمكانــ
+0.07692	NgramTotal:      26	topNgram:       2	جاور ــاسمــالمكانــ
+0.07692	NgramTotal:      26	topNgram:       2	الخطيب بــاسمــالمكانــ
+0.07477	NgramTotal:     107	topNgram:       8	ولي قضاء ــاسمــالمكانــ
+0.07245	NgramTotal:    1256	topNgram:      91	توفي بــاسمــالمكانــ
+0.07143	NgramTotal:      28	topNgram:       2	يدرس بــاسمــالمكانــ
+0.07071	NgramTotal:      99	topNgram:       7	بلاد ــاسمــالمكانــ
+0.06931	NgramTotal:     505	topNgram:      35	اهل ــاسمــالمكانــ
+0.06769	NgramTotal:     325	topNgram:      22	محدث ــاسمــالمكانــ
+0.06522	NgramTotal:      46	topNgram:       3	تفضيل ــاسمــالمكانــ
+0.06452	NgramTotal:      31	topNgram:       2	من بلدة ــاسمــالمكانــ
+0.06335	NgramTotal:     221	topNgram:      14	ملوك ــاسمــالمكانــ
+0.06250	NgramTotal:      32	topNgram:       2	اكابر ــاسمــالمكانــ
+0.06135	NgramTotal:     326	topNgram:      20	قري ــاسمــالمكانــ
+0.05970	NgramTotal:      67	topNgram:       4	قرب ــاسمــالمكانــ
+0.05960	NgramTotal:     151	topNgram:       9	في اخبار ــاسمــالمكانــ
+0.05747	NgramTotal:     348	topNgram:      20	فضاءل ــاسمــالمكانــ
+0.05660	NgramTotal:     106	topNgram:       6	دخل ــاسمــالمكانــ
+0.05634	NgramTotal:      71	topNgram:       4	ومات بــاسمــالمكانــ
+0.05364	NgramTotal:    2144	topNgram:     115	الي ــاسمــالمكانــ
+0.05319	NgramTotal:      94	topNgram:       5	من علماء ــاسمــالمكانــ
+0.05310	NgramTotal:     113	topNgram:       6	مصر وــاسمــالمكانــ
+0.05000	NgramTotal:      40	topNgram:       2	زيارة ــاسمــالمكانــ
+0.04724	NgramTotal:     127	topNgram:       6	قضاة ــاسمــالمكانــ
+0.04651	NgramTotal:     129	topNgram:       6	في فضاءل ــاسمــالمكانــ
+0.04348	NgramTotal:      46	topNgram:       2	ملتقي ــاسمــالمكانــ
+0.04183	NgramTotal:     263	topNgram:      11	علماء ــاسمــالمكانــ
+0.04167	NgramTotal:      48	topNgram:       2	جزيرة ــاسمــالمكانــ
+0.04082	NgramTotal:      49	topNgram:       2	قطر ــاسمــالمكانــ
+0.03960	NgramTotal:     202	topNgram:       8	شعراء ــاسمــالمكانــ
+0.03814	NgramTotal:     236	topNgram:       9	صاحب ــاسمــالمكانــ
+0.03774	NgramTotal:      53	topNgram:       2	الحنفي القاضي بــاسمــالمكانــ
+0.03759	NgramTotal:     133	topNgram:       5	مات بــاسمــالمكانــ
+0.02817	NgramTotal:      71	topNgram:       2	رجع الي ــاسمــالمكانــ
+0.02797	NgramTotal:     143	topNgram:       4	محاسن ــاسمــالمكانــ
+0.02665	NgramTotal:     638	topNgram:      17	بين ــاسمــالمكانــ
+0.02632	NgramTotal:      76	topNgram:       2	بجامع ــاسمــالمكانــ
+0.02609	NgramTotal:     115	topNgram:       3	فقهاء ــاسمــالمكانــ
+0.02469	NgramTotal:     162	topNgram:       4	عالم ــاسمــالمكانــ
+0.02387	NgramTotal:     796	topNgram:      19	قاضي ــاسمــالمكانــ
+0.02353	NgramTotal:     170	topNgram:       4	بلدة ــاسمــالمكانــ
+0.02313	NgramTotal:     908	topNgram:      21	اخبار ــاسمــالمكانــ
+0.01990	NgramTotal:     201	topNgram:       4	خطيب ــاسمــالمكانــ
+0.01905	NgramTotal:     105	topNgram:       2	في فضل ــاسمــالمكانــ
+0.01770	NgramTotal:     113	topNgram:       2	احوال ــاسمــالمكانــ
+0.01732	NgramTotal:     231	topNgram:       4	مدينة ــاسمــالمكانــ
+0.01695	NgramTotal:     118	topNgram:       2	والي ــاسمــالمكانــ
+0.01648	NgramTotal:     182	topNgram:       3	عروض ــاسمــالمكانــ
+0.01504	NgramTotal:     133	topNgram:       2	اله ــاسمــالمكانــ
+0.01250	NgramTotal:     240	topNgram:       3	مفتي ــاسمــالمكانــ
+0.01240	NgramTotal:     484	topNgram:       6	فضل ــاسمــالمكانــ
+0.01205	NgramTotal:     166	topNgram:       2	مسند ــاسمــالمكانــ
+0.01053	NgramTotal:     190	topNgram:       2	طريق ــاسمــالمكانــ
+0.00926	NgramTotal:     216	topNgram:       2	مقري ــاسمــالمكانــ
+0.00881	NgramTotal:     227	topNgram:       2	رجال ــاسمــالمكانــ
+0.00722	NgramTotal:     277	topNgram:       2	جواهر ــاسمــالمكانــ
+0.00685	NgramTotal:     730	topNgram:       5	فتح ــاسمــالمكانــ
+0.00635	NgramTotal:     315	topNgram:       2	ملك ــاسمــالمكانــ
+0.00541	NgramTotal:     370	topNgram:       2	لتاريخ ــاسمــالمكانــ
+0.00464	NgramTotal:    7968	topNgram:      37	من ــاسمــالمكانــ
+0.00452	NgramTotal:     664	topNgram:       3	ثم ــاسمــالمكانــ
+0.00282	NgramTotal:     709	topNgram:       2	جامع ــاسمــالمكانــ
+0.00278	NgramTotal:     719	topNgram:       2	توفي في ــاسمــالمكانــ
+0.00226	NgramTotal:     885	topNgram:       2	شيخ ــاسمــالمكانــ
+0.00211	NgramTotal:     946	topNgram:       2	علم ــاسمــالمكانــ
+0.00202	NgramTotal:     992	topNgram:       2	الله بن ــاسمــالمكانــ
+0.00162	NgramTotal:    6171	topNgram:      10	كتاب ــاسمــالمكانــ
+0.00101	NgramTotal:   32670	topNgram:      33	في ــاسمــالمكانــ
+0.00054	NgramTotal:    3702	topNgram:       2	محمد بن ــاسمــالمكانــ
+0.00032	NgramTotal:    6254	topNgram:       2	علي ــاسمــالمكانــ
+0.00022	NgramTotal:   22991	topNgram:       5	بن ــاسمــالمكانــ

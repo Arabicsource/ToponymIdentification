@@ -6,5 +6,5 @@
 Cornu_All_Complete.txt
 
 # Ignore folders
-aside
-WorkingLists
+aside/
+WorkingLists/

@@ -4,7 +4,7 @@ sys.path.append("C:\\My Documents\\Python\\Workspace\\scripts")
 import mgr, csv, textwrap
 import jsonHolder
 
-# Folders and Files
+# Working Folders and Files 
 toponymicListRaw = "./WorkingLists/MuCjambuldan_WorkingList.txt"
 sourceFolder     = "./SourcesToAnalyze/"
 tempFolder       = "./tempFolder/"
